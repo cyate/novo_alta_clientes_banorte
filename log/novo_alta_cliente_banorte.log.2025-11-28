@@ -1,0 +1,165 @@
+2025-11-28 17:16:58,654 [      ] [ERROR] com.novo.database.dbinterface                     : load config [../parametros/oracle.properties] ERROR [..\parametros\..\parametros\oracle.properties (El sistema no puede encontrar la ruta especificada)] !
+2025-11-28 17:16:58,664 [      ] [INFO ] com.novo.main.Main                                : El proceso se detuvo a causa de la lectura del archivo de entrada, puede que su nombre no este correcto
+2025-11-28 17:17:37,699 [      ] [ERROR] com.novo.database.dbinterface                     : load config [../parametros/oracle.properties] ERROR [..\parametros\..\parametros\oracle.properties (El sistema no puede encontrar la ruta especificada)] !
+2025-11-28 17:17:37,707 [      ] [INFO ] com.novo.main.Main                                : El proceso se detuvo a causa de la lectura del archivo de entrada, puede que su nombre no este correcto
+2025-11-28 17:17:56,466 [      ] [ERROR] com.novo.database.dbinterface                     : load config [../parametros/oracle.properties] ERROR [..\parametros\..\parametros\oracle.properties (El sistema no puede encontrar la ruta especificada)] !
+2025-11-28 17:17:56,474 [      ] [INFO ] com.novo.main.Main                                : El proceso se detuvo a causa de la lectura del archivo de entrada, puede que su nombre no este correcto
+2025-11-28 17:19:29,069 [      ] [ERROR] com.novo.database.dbinterface                     : load config [./parametros/oracle.properties] ERROR [..\parametros\.\parametros\oracle.properties (El sistema no puede encontrar la ruta especificada)] !
+2025-11-28 17:19:29,076 [      ] [INFO ] com.novo.main.Main                                : El proceso se detuvo a causa de la lectura del archivo de entrada, puede que su nombre no este correcto
+2025-11-28 17:19:37,064 [      ] [ERROR] com.novo.database.dbinterface                     : load config [/parametros/oracle.properties] ERROR [..\parametros\parametros\oracle.properties (El sistema no puede encontrar la ruta especificada)] !
+2025-11-28 17:19:37,072 [      ] [INFO ] com.novo.main.Main                                : El proceso se detuvo a causa de la lectura del archivo de entrada, puede que su nombre no este correcto
+2025-11-28 17:19:59,944 [      ] [ERROR] com.novo.database.dbinterface                     : load config [/parametros/oracle.properties] ERROR [..\parametros\parametros\oracle.properties (El sistema no puede encontrar la ruta especificada)] !
+2025-11-28 17:19:59,955 [      ] [INFO ] com.novo.main.Main                                : El proceso se detuvo a causa de la lectura del archivo de entrada, puede que su nombre no este correcto
+2025-11-28 17:20:55,583 [      ] [ERROR] com.novo.database.dbinterface                     : load config [/parametros/oracle.properties] ERROR [..\parametros\parametros\oracle.properties (El sistema no puede encontrar la ruta especificada)] !
+2025-11-28 17:20:55,588 [      ] [INFO ] com.novo.main.Main                                : El proceso se detuvo a causa de la lectura del archivo de entrada, puede que su nombre no este correcto
+2025-11-28 17:21:28,713 [      ] [ERROR] com.novo.database.dbinterface                     : load config [/parametros/oracle.properties] ERROR [..\parametros\parametros\oracle.properties (El sistema no puede encontrar la ruta especificada)] !
+2025-11-28 17:22:11,634 [      ] [ERROR] com.novo.database.dbinterface                     : load config [/parametros/oracle.properties] ERROR [..\parametros\parametros\oracle.properties (El sistema no puede encontrar la ruta especificada)] !
+2025-11-28 17:22:11,670 [      ] [INFO ] com.novo.main.Main                                : El proceso se detuvo a causa de la lectura del archivo de entrada, puede que su nombre no este correcto
+2025-11-28 17:23:21,963 [      ] [ERROR] com.novo.database.dbinterface                     : load config [./parametros/oracle.properties] ERROR [..\parametros\.\parametros\oracle.properties (El sistema no puede encontrar la ruta especificada)] !
+2025-11-28 17:23:22,021 [      ] [INFO ] com.novo.main.Main                                : El proceso se detuvo a causa de la lectura del archivo de entrada, puede que su nombre no este correcto
+2025-11-28 17:26:34,679 [      ] [ERROR] com.novo.database.dbinterface                     : load config [parametros\oracle.properties] ERROR [..\parametros\parametros\oracle.properties (El sistema no puede encontrar la ruta especificada)] !
+2025-11-28 17:26:34,696 [      ] [INFO ] com.novo.main.Main                                : El proceso se detuvo a causa de la lectura del archivo de entrada, puede que su nombre no este correcto
+2025-11-28 17:47:25,196 [      ] [INFO ] com.novo.main.Main                                : Cargando configuración Oracle desde: [oracle.properties]
+2025-11-28 17:47:25,203 [      ] [ERROR] com.novo.database.dbinterface                     : load config [oracle.properties] ERROR [..\parametros\oracle.properties (El sistema no puede encontrar la ruta especificada)] !
+2025-11-28 17:47:25,211 [      ] [INFO ] com.novo.main.Main                                : El proceso se detuvo a causa de la lectura del archivo de entrada, puede que su nombre no este correcto
+2025-11-28 18:07:52,670 [      ] [INFO ] com.novo.main.Main                                : Cargando configuración Oracle desde: [oracle.properties]
+2025-11-28 18:08:03,382 [      ] [ERROR] com.novo.database.dbinterface                     : load config [oracle.properties] ERROR [..\parametros\oracle.properties (El sistema no puede encontrar la ruta especificada)] !
+2025-11-28 18:08:03,413 [      ] [INFO ] com.novo.main.Main                                : El proceso se detuvo a causa de la lectura del archivo de entrada, puede que su nombre no este correcto
+2025-11-28 18:09:13,013 [      ] [INFO ] com.novo.main.Main                                : Cargando configuración Oracle desde: [oracle.properties]
+2025-11-28 18:14:44,979 [      ] [INFO ] com.novo.main.Main                                : Cargando configuración Oracle desde: [/oracle.properties]
+2025-11-28 18:15:02,691 [      ] [ERROR] com.novo.database.dbinterface                     : load config [/oracle.properties] ERROR [..\parametros\oracle.properties (El sistema no puede encontrar la ruta especificada)] !
+2025-11-28 18:15:02,723 [      ] [INFO ] com.novo.main.Main                                : El proceso se detuvo a causa de la lectura del archivo de entrada, puede que su nombre no este correcto
+2025-11-28 18:20:35,376 [      ] [INFO ] com.novo.main.Main                                : Cargando configuración Oracle desde: [/oracle.properties]
+2025-11-28 18:20:35,848 [      ] [ERROR] com.novo.database.dbinterface                     : load config [/oracle.properties] ERROR [..\oracle.properties (El sistema no puede encontrar el archivo especificado)] !
+2025-11-28 18:20:40,020 [      ] [INFO ] com.novo.main.Main                                : El proceso se detuvo a causa de la lectura del archivo de entrada, puede que su nombre no este correcto
+2025-11-28 18:21:20,643 [      ] [INFO ] com.novo.main.Main                                : Cargando configuración Oracle desde: [/oracle.properties]
+2025-11-28 18:21:20,659 [      ] [ERROR] com.novo.database.dbinterface                     : load config [/oracle.properties] ERROR [..\oracle.properties (El sistema no puede encontrar el archivo especificado)] !
+2025-11-28 18:21:20,664 [      ] [INFO ] com.novo.main.Main                                : El proceso se detuvo a causa de la lectura del archivo de entrada, puede que su nombre no este correcto
+2025-11-28 18:21:43,633 [      ] [INFO ] com.novo.main.Main                                : Cargando configuración Oracle desde: [oracle.properties]
+2025-11-28 18:21:44,036 [      ] [ERROR] com.novo.database.dbinterface                     : load config [oracle.properties] ERROR [..\oracle.properties (El sistema no puede encontrar el archivo especificado)] !
+2025-11-28 18:22:16,873 [      ] [INFO ] com.novo.main.Main                                : El proceso se detuvo a causa de la lectura del archivo de entrada, puede que su nombre no este correcto
+2025-11-28 18:24:08,908 [      ] [INFO ] com.novo.main.Main                                : Cargando configuración Oracle desde: [oracle.properties]
+2025-11-28 18:24:09,018 [      ] [DEBUG] com.novo.database.dbinterface                     : load config [oracle.properties] sucess !
+2025-11-28 18:24:09,019 [      ] [INFO ] com.novo.main.Main                                : El proceso se detuvo a causa de la lectura del archivo de entrada, puede que su nombre no este correcto
+2025-11-28 18:24:39,871 [      ] [INFO ] com.novo.main.Main                                : Cargando configuración Oracle desde: [oracle.properties]
+2025-11-28 18:24:39,991 [      ] [DEBUG] com.novo.database.dbinterface                     : load config [oracle.properties] sucess !
+2025-11-28 18:24:46,155 [      ] [INFO ] com.novo.main.Main                                : El proceso se detuvo a causa de la lectura del archivo de entrada, puede que su nombre no este correcto
+2025-11-28 18:25:04,832 [      ] [INFO ] com.novo.main.Main                                : Cargando configuración Oracle desde: [oracle.properties]
+2025-11-28 18:25:04,956 [      ] [DEBUG] com.novo.database.dbinterface                     : load config [oracle.properties] sucess !
+2025-11-28 18:25:37,198 [      ] [INFO ] com.novo.main.Main                                : Cargando configuración Oracle desde: [oracle.properties]
+2025-11-28 18:25:37,326 [      ] [DEBUG] com.novo.database.dbinterface                     : load config [oracle.properties] sucess !
+2025-11-28 18:26:46,937 [      ] [ERROR] com.novo.database.dbinterface                     : ERROR[Error de E/S: The Network Adapter could not establish the connection] !
+java.sql.SQLRecoverableException: Error de E/S: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:903)
+	at oracle.jdbc.driver.PhysicalConnection.connect(PhysicalConnection.java:820)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:80)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:820)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:624)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:683)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:230)
+	at com.novo.database.dbinterface.dbinic(dbinterface.java:148)
+	at com.novo.main.Main.main(Main.java:86)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:742)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:588)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:729)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:340)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1714)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:627)
+	... 8 more
+Caused by: java.io.IOException: Connection timed out: connect, socket connect lapse 21111 ms. /172.24.6.105 1398 0 1 true
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:328)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:198)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:675)
+	... 13 more
+Caused by: java.net.ConnectException: Connection timed out: connect
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:589)
+	at java.base/sun.nio.ch.Net.connect(Net.java:596)
+	at java.base/sun.nio.ch.SocketChannelImpl.connect(SocketChannelImpl.java:880)
+	at java.base/java.nio.channels.SocketChannel.open(SocketChannel.java:285)
+	at oracle.net.nt.TimeoutSocketChannel.doConnect(TimeoutSocketChannel.java:145)
+	at oracle.net.nt.TimeoutSocketChannel.connect(TimeoutSocketChannel.java:131)
+	at oracle.net.nt.TimeoutSocketChannel.<init>(TimeoutSocketChannel.java:116)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:287)
+	... 15 more
+2025-11-28 18:26:46,945 [      ] [ERROR] com.novo.database.dbinterface                     : ERROR[Error de E/S: The Network Adapter could not establish the connection] !
+java.sql.SQLRecoverableException: Error de E/S: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:903)
+	at oracle.jdbc.driver.PhysicalConnection.connect(PhysicalConnection.java:820)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:80)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:820)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:624)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:683)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:230)
+	at com.novo.database.dbinterface.dbinic(dbinterface.java:148)
+	at com.novo.main.Main.main(Main.java:86)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:742)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:588)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:729)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:340)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1714)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:627)
+	... 8 more
+Caused by: java.io.IOException: Connection timed out: connect, socket connect lapse 21111 ms. /172.24.6.105 1398 0 1 true
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:328)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:198)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:675)
+	... 13 more
+Caused by: java.net.ConnectException: Connection timed out: connect
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:589)
+	at java.base/sun.nio.ch.Net.connect(Net.java:596)
+	at java.base/sun.nio.ch.SocketChannelImpl.connect(SocketChannelImpl.java:880)
+	at java.base/java.nio.channels.SocketChannel.open(SocketChannel.java:285)
+	at oracle.net.nt.TimeoutSocketChannel.doConnect(TimeoutSocketChannel.java:145)
+	at oracle.net.nt.TimeoutSocketChannel.connect(TimeoutSocketChannel.java:131)
+	at oracle.net.nt.TimeoutSocketChannel.<init>(TimeoutSocketChannel.java:116)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:287)
+	... 15 more
+2025-11-28 18:26:46,950 [      ] [ERROR] com.novo.database.dbinterface                     : conn[jdbc:oracle:thin:@//172.24.6.105:1398/UAT] !
+java.sql.SQLRecoverableException: Error de E/S: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:903)
+	at oracle.jdbc.driver.PhysicalConnection.connect(PhysicalConnection.java:820)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:80)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:820)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:624)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:683)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:230)
+	at com.novo.database.dbinterface.dbinic(dbinterface.java:148)
+	at com.novo.main.Main.main(Main.java:86)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:742)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:588)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:729)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:340)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1714)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:627)
+	... 8 more
+Caused by: java.io.IOException: Connection timed out: connect, socket connect lapse 21111 ms. /172.24.6.105 1398 0 1 true
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:328)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:198)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:675)
+	... 13 more
+Caused by: java.net.ConnectException: Connection timed out: connect
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:589)
+	at java.base/sun.nio.ch.Net.connect(Net.java:596)
+	at java.base/sun.nio.ch.SocketChannelImpl.connect(SocketChannelImpl.java:880)
+	at java.base/java.nio.channels.SocketChannel.open(SocketChannel.java:285)
+	at oracle.net.nt.TimeoutSocketChannel.doConnect(TimeoutSocketChannel.java:145)
+	at oracle.net.nt.TimeoutSocketChannel.connect(TimeoutSocketChannel.java:131)
+	at oracle.net.nt.TimeoutSocketChannel.<init>(TimeoutSocketChannel.java:116)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:287)
+	... 15 more
+2025-11-28 18:26:46,953 [      ] [INFO ] com.novo.main.Main                                : Conexión a BD ORACLE no disponible. Proceso cancelado
+2025-11-28 18:35:09,028 [      ] [INFO ] com.novo.main.Main                                : Cargando configuración Oracle desde: [oracle.properties]
+2025-11-28 18:35:09,134 [      ] [DEBUG] com.novo.database.dbinterface                     : load config [oracle.properties] sucess !
+2025-11-28 18:35:09,135 [      ] [INFO ] com.novo.main.Main                                : El proceso se detuvo a causa de la lectura del archivo de entrada, puede que su nombre no este correcto
+2025-11-28 18:35:22,100 [      ] [INFO ] com.novo.main.Main                                : Cargando configuración Oracle desde: [oracle.properties]
+2025-11-28 18:35:22,231 [      ] [DEBUG] com.novo.database.dbinterface                     : load config [oracle.properties] sucess !
+2025-11-28 18:35:31,759 [      ] [INFO ] com.novo.main.Main                                : El proceso se detuvo a causa de la lectura del archivo de entrada, puede que su nombre no este correcto
+2025-11-28 18:36:05,586 [      ] [INFO ] com.novo.main.Main                                : Cargando configuración Oracle desde: [oracle.properties]
+2025-11-28 18:36:05,681 [      ] [DEBUG] com.novo.database.dbinterface                     : load config [oracle.properties] sucess !
+2025-11-28 18:36:05,683 [      ] [INFO ] com.novo.main.Main                                : El proceso se detuvo a causa de la lectura del archivo de entrada, puede que su nombre no este correcto

@@ -1,0 +1,1 @@
+rootProject.name = "novo_alta_clientes_banorte"

@@ -1,0 +1,335 @@
+2025-12-01 15:00:00,890 [      ] [INFO ] com.novo.main.Main                                : Cargando configuración Oracle desde: [oracle.properties]
+2025-12-01 15:00:01,002 [      ] [DEBUG] com.novo.database.dbinterface                     : load config [oracle.properties] sucess !
+2025-12-01 15:00:01,003 [      ] [INFO ] com.novo.main.Main                                : El proceso se detuvo a causa de la lectura del archivo de entrada, puede que su nombre no este correcto
+2025-12-01 15:02:17,452 [      ] [INFO ] com.novo.main.Main                                : Cargando configuración Oracle desde: [oracle.properties]
+2025-12-01 15:02:17,829 [      ] [DEBUG] com.novo.database.dbinterface                     : load config [oracle.properties] sucess !
+2025-12-01 15:02:20,044 [      ] [DEBUG] com.novo.database.dbinterface                     : connected to ->[jdbc:oracle:thin:@//172.24.6.105:1398/UAT]
+2025-12-01 15:02:20,045 [      ] [DEBUG] com.novo.database.dbinterface                     : connected to ->[jdbc:oracle:thin:@//172.24.6.105:1398/UAT]
+2025-12-01 15:02:20,050 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : CANTIDAD DE REGISTRO: 15
+2025-12-01 15:02:20,050 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : CANTIDAD DE STOCK: 16
+2025-12-01 15:02:20,051 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : CHECK 1=true
+2025-12-01 15:02:20,051 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : CHECK 2=true
+2025-12-01 15:02:20,052 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : CHECK 3=true
+2025-12-01 15:02:20,282 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente SQL_CONSULTA_EMPRESA para la cuenta 1016481209
+2025-12-01 15:02:20,286 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : listaEmp.get(i).getNvpCtaAdmin() :1016481209
+2025-12-01 15:02:20,287 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : listaEmp.get(i).getNvpIndsrvna(): N
+2025-12-01 15:02:20,287 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : CANTIDAD DE REGISTRO: 20
+2025-12-01 15:02:20,287 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : CANTIDAD DE STOCK: 17
+2025-12-01 15:02:20,287 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : CHECK 1=true
+2025-12-01 15:02:20,287 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : CHECK 2=true
+2025-12-01 15:02:20,287 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : CHECK 3=true
+2025-12-01 15:02:20,345 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente SQL_CONSULTA_EMPRESA para la cuenta 1016481209
+2025-12-01 15:02:20,345 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : listaEmp.get(i).getNvpCtaAdmin() :1016481209
+2025-12-01 15:02:20,346 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : listaEmp.get(i).getNvpIndsrvna(): N
+2025-12-01 15:02:20,497 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00001
+2025-12-01 15:02:20,640 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00002
+2025-12-01 15:02:20,759 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00003
+2025-12-01 15:02:20,881 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00004
+2025-12-01 15:02:20,994 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00005
+2025-12-01 15:02:21,103 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00006
+2025-12-01 15:02:21,222 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00007
+2025-12-01 15:02:21,330 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00008
+2025-12-01 15:02:21,447 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00009
+2025-12-01 15:02:21,566 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00010
+2025-12-01 15:02:21,676 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00011
+2025-12-01 15:02:21,795 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00012
+2025-12-01 15:02:21,917 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00013
+2025-12-01 15:02:22,036 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00014
+2025-12-01 15:02:22,161 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00015
+2025-12-01 15:02:22,308 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_LOTE_INNO_M 10164812090000249749M 0017
+2025-12-01 15:02:22,420 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_LOTE_INNO_M 10164812090000249749M 0017
+2025-12-01 15:02:22,545 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_LOTE_INNO_M 10164812090000249749M 0017
+2025-12-01 15:02:22,655 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_LOTE_INNO_M 10164812090000249749M 0017
+2025-12-01 15:02:22,780 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_LOTE_INNO_M 10164812090000249749M 0017
+2025-12-01 15:02:22,898 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_LOTE_INNO_M 10164812090000249749M 0017
+2025-12-01 15:02:23,003 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_LOTE_INNO_M 10164812090000249749M 0017
+2025-12-01 15:02:23,114 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_LOTE_INNO_M 10164812090000249749M 0017
+2025-12-01 15:02:23,233 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_LOTE_INNO_M 10164812090000249749M 0017
+2025-12-01 15:02:23,351 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_LOTE_INNO_M 10164812090000249749M 0017
+2025-12-01 15:02:23,470 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_LOTE_INNO_M 10164812090000249749M 0017
+2025-12-01 15:02:23,590 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_LOTE_INNO_M 10164812090000249749M 0017
+2025-12-01 15:02:23,738 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_LOTE_INNO_M 10164812090000249749M 0017
+2025-12-01 15:02:23,860 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_LOTE_INNO_M 10164812090000249749M 0017
+2025-12-01 15:02:23,976 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_LOTE_INNO_M 10164812090000249749M 0017
+2025-12-01 15:02:24,087 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_LOTE_INNO_M 10164812090000249749M 0017
+2025-12-01 15:02:24,203 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_LOTE_INNO_M 10164812090000249749M 0017
+2025-12-01 15:02:24,319 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_LOTE_INNO_M 10164812090000249749M 0017
+2025-12-01 15:02:24,434 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_LOTE_INNO_M 10164812090000249749M 0017
+2025-12-01 15:02:24,563 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_LOTE_INNO_M 10164812090000249749M 0017
+2025-12-01 15:02:24,569 [      ] [INFO ] java.lang.Process                                 : listaEmpresa.getNvpCuenta() 1016183316
+2025-12-01 15:02:24,569 [      ] [INFO ] java.lang.Process                                 : listaEmpresa.getNvpCtaAdmin() 1016481209
+2025-12-01 15:02:24,570 [      ] [INFO ] java.lang.Process                                 : listaEmpresa.getNvpNumStockG() 0016
+2025-12-01 15:02:24,570 [      ] [INFO ] java.lang.Process                                 : listaEmpresa.getRespuesta().getNvpResultado() A
+2025-12-01 15:02:24,570 [      ] [INFO ] java.lang.Process                                 : listaEmpresa.getNvpCuenta() 1016183316
+2025-12-01 15:02:24,570 [      ] [INFO ] java.lang.Process                                 : listaEmpresa.getNvpCtaAdmin() 1016481209
+2025-12-01 15:02:24,570 [      ] [INFO ] java.lang.Process                                 : listaEmpresa.getNvpNumStockG() 0017
+2025-12-01 15:02:24,570 [      ] [INFO ] java.lang.Process                                 : listaEmpresa.getRespuesta().getNvpResultado() A
+2025-12-01 15:02:24,629 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente SQL_CONSULTA_EMPRESA 1016481209
+2025-12-01 15:02:24,697 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente SQL_CONSULTA_SUCURSAL 1016481209
+2025-12-01 15:02:24,697 [      ] [INFO ] java.lang.Process                                 : *****Inicia Sentencias SQL para Lote y Maestros*****
+2025-12-01 15:02:24,759 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_NOVO_LOTE_EMI_M para el id de servicio 10164812090000249749M y secuencia 0016
+2025-12-01 15:02:24,830 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00001
+2025-12-01 15:02:24,965 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_NOMI para la cuenta empresa 1016481209 y cuenta personal 4189281061232253
+2025-12-01 15:02:25,073 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_NOMI para la cuenta empresa 1016481209 y tarjeta 4189281061232253
+2025-12-01 15:02:25,149 [      ] [INFO ] java.lang.Process                                 : Se actualizo Novo Lote Emi para la tarjeta 4189281061232253
+2025-12-01 15:02:25,211 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5706
+2025-12-01 15:02:25,268 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00002
+2025-12-01 15:02:25,324 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_NOMI para la cuenta empresa 1016481209 y cuenta personal 4189281061232261
+2025-12-01 15:02:25,378 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_NOMI para la cuenta empresa 1016481209 y tarjeta 4189281061232261
+2025-12-01 15:02:25,436 [      ] [INFO ] java.lang.Process                                 : Se actualizo Novo Lote Emi para la tarjeta 4189281061232261
+2025-12-01 15:02:25,500 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5706
+2025-12-01 15:02:25,560 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00003
+2025-12-01 15:02:25,632 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_NOMI para la cuenta empresa 1016481209 y cuenta personal 4189281061232279
+2025-12-01 15:02:25,689 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_NOMI para la cuenta empresa 1016481209 y tarjeta 4189281061232279
+2025-12-01 15:02:25,746 [      ] [INFO ] java.lang.Process                                 : Se actualizo Novo Lote Emi para la tarjeta 4189281061232279
+2025-12-01 15:02:25,805 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5706
+2025-12-01 15:02:25,865 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00004
+2025-12-01 15:02:25,924 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_NOMI para la cuenta empresa 1016481209 y cuenta personal 4189281061232287
+2025-12-01 15:02:25,982 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_NOMI para la cuenta empresa 1016481209 y tarjeta 4189281061232287
+2025-12-01 15:02:26,054 [      ] [INFO ] java.lang.Process                                 : Se actualizo Novo Lote Emi para la tarjeta 4189281061232287
+2025-12-01 15:02:26,128 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5706
+2025-12-01 15:02:26,194 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00005
+2025-12-01 15:02:26,255 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_NOMI para la cuenta empresa 1016481209 y cuenta personal 4189281061232295
+2025-12-01 15:02:26,323 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_NOMI para la cuenta empresa 1016481209 y tarjeta 4189281061232295
+2025-12-01 15:02:26,387 [      ] [INFO ] java.lang.Process                                 : Se actualizo Novo Lote Emi para la tarjeta 4189281061232295
+2025-12-01 15:02:26,444 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5706
+2025-12-01 15:02:26,500 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00006
+2025-12-01 15:02:26,560 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_NOMI para la cuenta empresa 1016481209 y cuenta personal 4189281061232303
+2025-12-01 15:02:26,618 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_NOMI para la cuenta empresa 1016481209 y tarjeta 4189281061232303
+2025-12-01 15:02:26,679 [      ] [INFO ] java.lang.Process                                 : Se actualizo Novo Lote Emi para la tarjeta 4189281061232303
+2025-12-01 15:02:26,738 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5706
+2025-12-01 15:02:26,800 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00007
+2025-12-01 15:02:26,862 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_NOMI para la cuenta empresa 1016481209 y cuenta personal 4189281061232311
+2025-12-01 15:02:26,918 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_NOMI para la cuenta empresa 1016481209 y tarjeta 4189281061232311
+2025-12-01 15:02:26,975 [      ] [INFO ] java.lang.Process                                 : Se actualizo Novo Lote Emi para la tarjeta 4189281061232311
+2025-12-01 15:02:27,034 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5706
+2025-12-01 15:02:27,105 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00008
+2025-12-01 15:02:27,160 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_NOMI para la cuenta empresa 1016481209 y cuenta personal 4189281061232329
+2025-12-01 15:02:27,217 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_NOMI para la cuenta empresa 1016481209 y tarjeta 4189281061232329
+2025-12-01 15:02:27,288 [      ] [INFO ] java.lang.Process                                 : Se actualizo Novo Lote Emi para la tarjeta 4189281061232329
+2025-12-01 15:02:27,345 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5706
+2025-12-01 15:02:27,404 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00009
+2025-12-01 15:02:27,461 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_NOMI para la cuenta empresa 1016481209 y cuenta personal 4189281061232337
+2025-12-01 15:02:27,519 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_NOMI para la cuenta empresa 1016481209 y tarjeta 4189281061232337
+2025-12-01 15:02:27,577 [      ] [INFO ] java.lang.Process                                 : Se actualizo Novo Lote Emi para la tarjeta 4189281061232337
+2025-12-01 15:02:27,636 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5706
+2025-12-01 15:02:27,699 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00010
+2025-12-01 15:02:27,769 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_NOMI para la cuenta empresa 1016481209 y cuenta personal 4189281061232345
+2025-12-01 15:02:27,839 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_NOMI para la cuenta empresa 1016481209 y tarjeta 4189281061232345
+2025-12-01 15:02:27,891 [      ] [INFO ] java.lang.Process                                 : Se actualizo Novo Lote Emi para la tarjeta 4189281061232345
+2025-12-01 15:02:27,940 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5706
+2025-12-01 15:02:28,001 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00011
+2025-12-01 15:02:28,061 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_NOMI para la cuenta empresa 1016481209 y cuenta personal 4189281061232352
+2025-12-01 15:02:28,118 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_NOMI para la cuenta empresa 1016481209 y tarjeta 4189281061232352
+2025-12-01 15:02:28,175 [      ] [INFO ] java.lang.Process                                 : Se actualizo Novo Lote Emi para la tarjeta 4189281061232352
+2025-12-01 15:02:28,228 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5706
+2025-12-01 15:02:28,280 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00012
+2025-12-01 15:02:28,335 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_NOMI para la cuenta empresa 1016481209 y cuenta personal 4189281061232360
+2025-12-01 15:02:28,396 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_NOMI para la cuenta empresa 1016481209 y tarjeta 4189281061232360
+2025-12-01 15:02:28,451 [      ] [INFO ] java.lang.Process                                 : Se actualizo Novo Lote Emi para la tarjeta 4189281061232360
+2025-12-01 15:02:28,508 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5706
+2025-12-01 15:02:28,563 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00013
+2025-12-01 15:02:28,618 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_NOMI para la cuenta empresa 1016481209 y cuenta personal 4189281061232378
+2025-12-01 15:02:28,681 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_NOMI para la cuenta empresa 1016481209 y tarjeta 4189281061232378
+2025-12-01 15:02:28,739 [      ] [INFO ] java.lang.Process                                 : Se actualizo Novo Lote Emi para la tarjeta 4189281061232378
+2025-12-01 15:02:28,797 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5706
+2025-12-01 15:02:28,856 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00014
+2025-12-01 15:02:28,910 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_NOMI para la cuenta empresa 1016481209 y cuenta personal 4189281061232386
+2025-12-01 15:02:28,966 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_NOMI para la cuenta empresa 1016481209 y tarjeta 4189281061232386
+2025-12-01 15:02:29,021 [      ] [INFO ] java.lang.Process                                 : Se actualizo Novo Lote Emi para la tarjeta 4189281061232386
+2025-12-01 15:02:29,076 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5706
+2025-12-01 15:02:29,132 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00015
+2025-12-01 15:02:29,185 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_NOMI para la cuenta empresa 1016481209 y cuenta personal 4189281061232394
+2025-12-01 15:02:29,240 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_NOMI para la cuenta empresa 1016481209 y tarjeta 4189281061232394
+2025-12-01 15:02:29,296 [      ] [INFO ] java.lang.Process                                 : Se actualizo Novo Lote Emi para la tarjeta 4189281061232394
+2025-12-01 15:02:29,355 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5706
+2025-12-01 15:02:29,409 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente SQL_CONSULTA_EMPRESA 1016481209
+2025-12-01 15:02:29,466 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente SQL_CONSULTA_SUCURSAL 1016481209
+2025-12-01 15:02:29,466 [      ] [INFO ] java.lang.Process                                 : *****Inicia Sentencias SQL para Lote y Maestros*****
+2025-12-01 15:02:29,517 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_LOTE_INNO_M para el id de servicio 10164812090000249749M y secuencia 0017
+2025-12-01 15:02:29,618 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_REGISTRO_EMISION_INNO para la cuenta empresa 1016481209 y lote 25112700
+2025-12-01 15:02:29,676 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5707
+2025-12-01 15:02:29,742 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_INNO para la cuenta empresa 1016481209 y cuenta personal 4189281061232402
+2025-12-01 15:02:29,806 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_INNO para la cuenta empresas 1016481209 y tarjeta 4189281061232402
+2025-12-01 15:02:29,863 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_REGISTRO_EMISION_INNO para la cuenta empresa 1016481209 y lote 25112700
+2025-12-01 15:02:29,922 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5707
+2025-12-01 15:02:29,986 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_INNO para la cuenta empresa 1016481209 y cuenta personal 4189281061232410
+2025-12-01 15:02:30,043 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_INNO para la cuenta empresas 1016481209 y tarjeta 4189281061232410
+2025-12-01 15:02:30,104 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_REGISTRO_EMISION_INNO para la cuenta empresa 1016481209 y lote 25112700
+2025-12-01 15:02:30,157 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5707
+2025-12-01 15:02:30,213 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_INNO para la cuenta empresa 1016481209 y cuenta personal 4189281061232428
+2025-12-01 15:02:30,266 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_INNO para la cuenta empresas 1016481209 y tarjeta 4189281061232428
+2025-12-01 15:02:30,320 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_REGISTRO_EMISION_INNO para la cuenta empresa 1016481209 y lote 25112700
+2025-12-01 15:02:30,375 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5707
+2025-12-01 15:02:30,458 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_INNO para la cuenta empresa 1016481209 y cuenta personal 4189281061232436
+2025-12-01 15:02:30,513 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_INNO para la cuenta empresas 1016481209 y tarjeta 4189281061232436
+2025-12-01 15:02:30,569 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_REGISTRO_EMISION_INNO para la cuenta empresa 1016481209 y lote 25112700
+2025-12-01 15:02:30,621 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5707
+2025-12-01 15:02:30,674 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_INNO para la cuenta empresa 1016481209 y cuenta personal 4189281061232444
+2025-12-01 15:02:30,727 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_INNO para la cuenta empresas 1016481209 y tarjeta 4189281061232444
+2025-12-01 15:02:30,778 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_REGISTRO_EMISION_INNO para la cuenta empresa 1016481209 y lote 25112700
+2025-12-01 15:02:30,832 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5707
+2025-12-01 15:02:30,895 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_INNO para la cuenta empresa 1016481209 y cuenta personal 4189281061232451
+2025-12-01 15:02:30,949 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_INNO para la cuenta empresas 1016481209 y tarjeta 4189281061232451
+2025-12-01 15:02:31,018 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_REGISTRO_EMISION_INNO para la cuenta empresa 1016481209 y lote 25112700
+2025-12-01 15:02:31,074 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5707
+2025-12-01 15:02:31,144 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_INNO para la cuenta empresa 1016481209 y cuenta personal 4189281061232469
+2025-12-01 15:02:31,198 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_INNO para la cuenta empresas 1016481209 y tarjeta 4189281061232469
+2025-12-01 15:02:31,249 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_REGISTRO_EMISION_INNO para la cuenta empresa 1016481209 y lote 25112700
+2025-12-01 15:02:31,309 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5707
+2025-12-01 15:02:31,363 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_INNO para la cuenta empresa 1016481209 y cuenta personal 4189281061232477
+2025-12-01 15:02:31,434 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_INNO para la cuenta empresas 1016481209 y tarjeta 4189281061232477
+2025-12-01 15:02:31,486 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_REGISTRO_EMISION_INNO para la cuenta empresa 1016481209 y lote 25112700
+2025-12-01 15:02:31,548 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5707
+2025-12-01 15:02:31,610 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_INNO para la cuenta empresa 1016481209 y cuenta personal 4189281061232485
+2025-12-01 15:02:31,674 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_INNO para la cuenta empresas 1016481209 y tarjeta 4189281061232485
+2025-12-01 15:02:31,727 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_REGISTRO_EMISION_INNO para la cuenta empresa 1016481209 y lote 25112700
+2025-12-01 15:02:31,778 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5707
+2025-12-01 15:02:31,828 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_INNO para la cuenta empresa 1016481209 y cuenta personal 4189281061232493
+2025-12-01 15:02:31,888 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_INNO para la cuenta empresas 1016481209 y tarjeta 4189281061232493
+2025-12-01 15:02:31,954 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_REGISTRO_EMISION_INNO para la cuenta empresa 1016481209 y lote 25112700
+2025-12-01 15:02:32,018 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5707
+2025-12-01 15:02:32,074 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_INNO para la cuenta empresa 1016481209 y cuenta personal 4189281061232501
+2025-12-01 15:02:32,128 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_INNO para la cuenta empresas 1016481209 y tarjeta 4189281061232501
+2025-12-01 15:02:32,180 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_REGISTRO_EMISION_INNO para la cuenta empresa 1016481209 y lote 25112700
+2025-12-01 15:02:32,238 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5707
+2025-12-01 15:02:32,289 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_INNO para la cuenta empresa 1016481209 y cuenta personal 4189281061232519
+2025-12-01 15:02:32,351 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_INNO para la cuenta empresas 1016481209 y tarjeta 4189281061232519
+2025-12-01 15:02:32,404 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_REGISTRO_EMISION_INNO para la cuenta empresa 1016481209 y lote 25112700
+2025-12-01 15:02:32,479 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5707
+2025-12-01 15:02:32,547 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_INNO para la cuenta empresa 1016481209 y cuenta personal 4189281061232527
+2025-12-01 15:02:32,599 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_INNO para la cuenta empresas 1016481209 y tarjeta 4189281061232527
+2025-12-01 15:02:32,658 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_REGISTRO_EMISION_INNO para la cuenta empresa 1016481209 y lote 25112700
+2025-12-01 15:02:32,731 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5707
+2025-12-01 15:02:32,791 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_INNO para la cuenta empresa 1016481209 y cuenta personal 4189281061232535
+2025-12-01 15:02:32,855 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_INNO para la cuenta empresas 1016481209 y tarjeta 4189281061232535
+2025-12-01 15:02:32,908 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_REGISTRO_EMISION_INNO para la cuenta empresa 1016481209 y lote 25112700
+2025-12-01 15:02:32,969 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5707
+2025-12-01 15:02:33,024 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_INNO para la cuenta empresa 1016481209 y cuenta personal 4189281061232543
+2025-12-01 15:02:33,087 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_INNO para la cuenta empresas 1016481209 y tarjeta 4189281061232543
+2025-12-01 15:02:33,138 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_REGISTRO_EMISION_INNO para la cuenta empresa 1016481209 y lote 25112700
+2025-12-01 15:02:33,200 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5707
+2025-12-01 15:02:33,259 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_INNO para la cuenta empresa 1016481209 y cuenta personal 4189281061232550
+2025-12-01 15:02:33,315 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_INNO para la cuenta empresas 1016481209 y tarjeta 4189281061232550
+2025-12-01 15:02:33,371 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_REGISTRO_EMISION_INNO para la cuenta empresa 1016481209 y lote 25112700
+2025-12-01 15:02:33,421 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5707
+2025-12-01 15:02:33,471 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_INNO para la cuenta empresa 1016481209 y cuenta personal 4189281061232568
+2025-12-01 15:02:33,523 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_INNO para la cuenta empresas 1016481209 y tarjeta 4189281061232568
+2025-12-01 15:02:33,580 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_REGISTRO_EMISION_INNO para la cuenta empresa 1016481209 y lote 25112700
+2025-12-01 15:02:33,637 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5707
+2025-12-01 15:02:33,694 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_INNO para la cuenta empresa 1016481209 y cuenta personal 4189281061232576
+2025-12-01 15:02:33,753 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_INNO para la cuenta empresas 1016481209 y tarjeta 4189281061232576
+2025-12-01 15:02:33,805 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_REGISTRO_EMISION_INNO para la cuenta empresa 1016481209 y lote 25112700
+2025-12-01 15:02:33,856 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5707
+2025-12-01 15:02:33,922 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_INNO para la cuenta empresa 1016481209 y cuenta personal 4189281061232584
+2025-12-01 15:02:33,980 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_INNO para la cuenta empresas 1016481209 y tarjeta 4189281061232584
+2025-12-01 15:02:34,031 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_REGISTRO_EMISION_INNO para la cuenta empresa 1016481209 y lote 25112700
+2025-12-01 15:02:34,081 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5707
+2025-12-01 15:02:34,136 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_INNO para la cuenta empresa 1016481209 y cuenta personal 4189281061232592
+2025-12-01 15:02:34,195 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_INNO para la cuenta empresas 1016481209 y tarjeta 4189281061232592
+2025-12-01 15:02:34,195 [      ] [INFO ] java.lang.Process                                 : ****Inicia la creacion los archivos de SGC **********
+2025-12-01 15:02:34,256 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00001
+2025-12-01 15:02:34,415 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00002
+2025-12-01 15:02:34,473 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00003
+2025-12-01 15:02:34,535 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00004
+2025-12-01 15:02:34,594 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00005
+2025-12-01 15:02:34,654 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00006
+2025-12-01 15:02:34,717 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00007
+2025-12-01 15:02:34,770 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00008
+2025-12-01 15:02:34,824 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00009
+2025-12-01 15:02:34,877 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00010
+2025-12-01 15:02:34,929 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00011
+2025-12-01 15:02:34,983 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00012
+2025-12-01 15:02:35,039 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00013
+2025-12-01 15:02:35,096 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00014
+2025-12-01 15:02:35,160 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00015
+2025-12-01 15:02:35,220 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00001
+2025-12-01 15:02:35,395 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00002
+2025-12-01 15:02:35,458 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00003
+2025-12-01 15:02:35,521 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00004
+2025-12-01 15:02:35,583 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00005
+2025-12-01 15:02:35,638 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00006
+2025-12-01 15:02:35,692 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00007
+2025-12-01 15:02:35,758 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00008
+2025-12-01 15:02:35,820 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00009
+2025-12-01 15:02:35,872 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00010
+2025-12-01 15:02:35,936 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00011
+2025-12-01 15:02:35,991 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00012
+2025-12-01 15:02:36,046 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00013
+2025-12-01 15:02:36,121 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00014
+2025-12-01 15:02:36,180 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00015
+2025-12-01 15:02:36,255 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00001
+2025-12-01 15:02:36,429 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00002
+2025-12-01 15:02:36,488 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00003
+2025-12-01 15:02:36,542 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00004
+2025-12-01 15:02:36,595 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00005
+2025-12-01 15:02:36,650 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00006
+2025-12-01 15:02:36,710 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00007
+2025-12-01 15:02:36,766 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00008
+2025-12-01 15:02:36,824 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00009
+2025-12-01 15:02:36,885 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00010
+2025-12-01 15:02:36,939 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00011
+2025-12-01 15:02:36,995 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00012
+2025-12-01 15:02:37,051 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00013
+2025-12-01 15:02:37,111 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00014
+2025-12-01 15:02:37,172 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00015
+2025-12-01 15:02:37,246 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00001
+2025-12-01 15:02:37,418 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00002
+2025-12-01 15:02:37,482 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00003
+2025-12-01 15:02:37,542 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00004
+2025-12-01 15:02:37,602 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00005
+2025-12-01 15:02:37,660 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00006
+2025-12-01 15:02:37,725 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00007
+2025-12-01 15:02:37,787 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00008
+2025-12-01 15:02:37,851 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00009
+2025-12-01 15:02:37,920 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00010
+2025-12-01 15:02:37,981 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00011
+2025-12-01 15:02:38,042 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00012
+2025-12-01 15:02:38,103 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00013
+2025-12-01 15:02:38,174 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00014
+2025-12-01 15:02:38,239 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00015
+2025-12-01 15:02:38,295 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00001
+2025-12-01 15:02:38,451 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00002
+2025-12-01 15:02:38,514 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00003
+2025-12-01 15:02:38,575 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00004
+2025-12-01 15:02:38,636 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00005
+2025-12-01 15:02:38,698 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00006
+2025-12-01 15:02:38,760 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00007
+2025-12-01 15:02:38,821 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00008
+2025-12-01 15:02:38,885 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00009
+2025-12-01 15:02:38,948 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00010
+2025-12-01 15:02:39,005 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00011
+2025-12-01 15:02:39,055 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00012
+2025-12-01 15:02:39,111 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00013
+2025-12-01 15:02:39,166 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00014
+2025-12-01 15:02:39,225 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00015
+2025-12-01 15:02:39,283 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00001
+2025-12-01 15:02:39,450 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00002
+2025-12-01 15:02:39,501 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00003
+2025-12-01 15:02:39,556 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00004
+2025-12-01 15:02:39,630 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00005
+2025-12-01 15:02:39,692 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00006
+2025-12-01 15:02:39,751 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00007
+2025-12-01 15:02:39,811 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00008
+2025-12-01 15:02:39,865 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00009
+2025-12-01 15:02:39,924 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00010
+2025-12-01 15:02:39,987 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00011
+2025-12-01 15:02:40,050 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00012
+2025-12-01 15:02:40,105 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00013
+2025-12-01 15:02:40,156 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00014
+2025-12-01 15:02:40,215 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00015
+2025-12-01 15:02:40,227 [      ] [INFO ] java.lang.Process                                 : ****Finaliza la creacion los archivos de SGC **********
+2025-12-01 15:02:40,247 [      ] [INFO ] com.novo.main.Main                                : Archivo generado OK: C:\ARQUITECTURA-GO-IA-FUTURO\PROJECT\batch-alta-clientes-banorte\NUEVO-CODIGO\novo_alta_clientes_banorte\packsgc\ACCOUNTS.TXT (4970 bytes)
+2025-12-01 15:02:40,248 [      ] [INFO ] com.novo.main.Main                                : Archivo generado OK: C:\ARQUITECTURA-GO-IA-FUTURO\PROJECT\batch-alta-clientes-banorte\NUEVO-CODIGO\novo_alta_clientes_banorte\packsgc\CARDACCOUNTS.TXT (1610 bytes)
+2025-12-01 15:02:40,249 [      ] [INFO ] com.novo.main.Main                                : Archivo generado OK: C:\ARQUITECTURA-GO-IA-FUTURO\PROJECT\batch-alta-clientes-banorte\NUEVO-CODIGO\novo_alta_clientes_banorte\packsgc\CARDS.TXT (4865 bytes)
+2025-12-01 15:02:40,249 [      ] [INFO ] com.novo.main.Main                                : Archivo generado OK: C:\ARQUITECTURA-GO-IA-FUTURO\PROJECT\batch-alta-clientes-banorte\NUEVO-CODIGO\novo_alta_clientes_banorte\packsgc\CUSTOMERACCOUNTS.TXT (1400 bytes)
+2025-12-01 15:02:40,250 [      ] [INFO ] com.novo.main.Main                                : Archivo generado OK: C:\ARQUITECTURA-GO-IA-FUTURO\PROJECT\batch-alta-clientes-banorte\NUEVO-CODIGO\novo_alta_clientes_banorte\packsgc\CUSTOMERS.TXT (3926 bytes)
+2025-12-01 15:02:40,250 [      ] [INFO ] com.novo.main.Main                                : Archivo generado OK: C:\ARQUITECTURA-GO-IA-FUTURO\PROJECT\batch-alta-clientes-banorte\NUEVO-CODIGO\novo_alta_clientes_banorte\packsgc\ACCOUNTBALANCES.TXT (945 bytes)
+2025-12-01 15:02:40,261 [      ] [INFO ] com.novo.main.Main                                : Archivo de respuesta OK: C:\ARQUITECTURA-GO-IA-FUTURO\PROJECT\batch-alta-clientes-banorte\NUEVO-CODIGO\novo_alta_clientes_banorte\arcrespuesta\REPSOLNP.D251201.TXT (15466 bytes)
+2025-12-01 15:02:40,361 [      ] [INFO ] com.novo.main.Main                                : ----------------Notificaciones Internas----------------------
+2025-12-01 15:02:41,708 [      ] [INFO ] com.novo.main.Main                                : El Proceso Se Ha Culminado Exitosamente!
+2025-12-01 15:02:41,713 [      ] [INFO ] com.novo.database.dbinterface                     : dbend  stmt[oracle.jdbc.driver.OracleStatementWrapper@2ef14fe] conn[oracle.jdbc.driver.T4CConnection@6e20b53a]conectado [false]
+2025-12-01 15:02:41,713 [      ] [INFO ] com.novo.database.dbinterface                     : close db queryResult [Oracle]!
+2025-12-01 15:02:41,713 [      ] [INFO ] com.novo.database.dbinterface                     : close db statement [Oracle]!
+2025-12-01 15:02:41,713 [      ] [INFO ] com.novo.database.dbinterface                     : close db connection [Oracle]!
+2025-12-01 15:02:41,774 [      ] [INFO ] com.novo.database.dbinterface                     : finalizando dbend coneccion cerrada [true]

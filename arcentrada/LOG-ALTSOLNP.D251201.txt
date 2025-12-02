@@ -1,0 +1,2199 @@
+3:02:14 p. m.: Executing ':com.novo.main.Main.main()'…
+
+> Task :compileJava UP-TO-DATE
+> Task :processResources UP-TO-DATE
+> Task :classes UP-TO-DATE
+
+> Task :com.novo.main.Main.main()
+2025-12-01 15:02:17,452 [      ] [INFO ] com.novo.main.Main                                : Cargando configuraci�n Oracle desde: [oracle.properties]
+Path :C:\ARQUITECTURA-GO-IA-FUTURO\PROJECT\batch-alta-clientes-banorte\NUEVO-CODIGO\novo_alta_clientes_banorte\oracle.properties
+2025-12-01 15:02:17,829 [      ] [DEBUG] com.novo.database.dbinterface                     : load config [oracle.properties] sucess !
+Longitud Linea: 23
+Numero de Atributos: 21
+Check Interface Alta Atributo: 1
+Check Interface Alta Atributo: 10164812090000249749M
+Check Interface Alta Atributo: 0016
+Check Interface Alta Atributo: 00015
+Check Interface Alta Atributo: 2025-12-01
+Check Interface Alta Atributo: M
+Check Interface Alta Atributo: 1016183316
+Check Interface Alta Atributo: 0000249749
+Check Interface Alta Atributo: BEM
+Check Interface Alta Atributo: 2023-09-15
+Check Interface Alta Atributo: A
+Check Interface Alta Atributo: 000000000000000
+Check Interface Alta Atributo: C
+Check Interface Alta Atributo: 1654558
+Check Interface Alta Atributo: hector.mora@capgemini.com
+Check Interface Alta Atributo: LLANTERA COELHO
+Check Interface Alta Atributo: usrejec1@banorte.com
+Check Interface Alta Atributo: LLANTERA COELHO
+Check Interface Alta Atributo: MOSH760122HDFRNC00
+Check Interface Alta Atributo: 1016481209
+Check Interface Alta Atributo: N
+Longitud Linea: 14
+Numero de Atributos: 14
+Check Interface Alta Atributo: 2
+Check Interface Alta Atributo: 10164812090000249749M
+Check Interface Alta Atributo: 0016
+Check Interface Alta Atributo: 00001
+Check Interface Alta Atributo: A
+Check Interface Alta Atributo: 4189281061232253
+Check Interface Alta Atributo: N
+Check Interface Alta Atributo: CESAR RAMOS
+Check Interface Alta Atributo: CESAR
+Check Interface Alta Atributo: RAMOS
+Check Interface Alta Atributo: CASADO
+Check Interface Alta Atributo: LLANTERA COELHO
+Check Interface Alta Atributo: 1129
+Check Interface Alta Atributo:
+Longitud Linea: 14
+Numero de Atributos: 14
+Check Interface Alta Atributo: 2
+Check Interface Alta Atributo: 10164812090000249749M
+Check Interface Alta Atributo: 0016
+Check Interface Alta Atributo: 00002
+Check Interface Alta Atributo: A
+Check Interface Alta Atributo: 4189281061232261
+Check Interface Alta Atributo: N
+Check Interface Alta Atributo: FERNANDO RAMIREZ
+Check Interface Alta Atributo: FERNANDO
+Check Interface Alta Atributo: RAMIREZ
+Check Interface Alta Atributo: RAMIREZ
+Check Interface Alta Atributo: LLANTERA COELHO
+Check Interface Alta Atributo: 1129
+Check Interface Alta Atributo:
+Longitud Linea: 14
+Numero de Atributos: 14
+Check Interface Alta Atributo: 2
+Check Interface Alta Atributo: 10164812090000249749M
+Check Interface Alta Atributo: 0016
+Check Interface Alta Atributo: 00003
+Check Interface Alta Atributo: A
+Check Interface Alta Atributo: 4189281061232279
+Check Interface Alta Atributo: N
+Check Interface Alta Atributo: RODRIGO HERNANDEZ
+Check Interface Alta Atributo: RODRIGO
+Check Interface Alta Atributo: HERNANDEZ
+Check Interface Alta Atributo: HERNANDEZ
+Check Interface Alta Atributo: LLANTERA COELHO
+Check Interface Alta Atributo: 1129
+Check Interface Alta Atributo:
+Longitud Linea: 14
+Numero de Atributos: 14
+Check Interface Alta Atributo: 2
+Check Interface Alta Atributo: 10164812090000249749M
+Check Interface Alta Atributo: 0016
+Check Interface Alta Atributo: 00004
+Check Interface Alta Atributo: A
+Check Interface Alta Atributo: 4189281061232287
+Check Interface Alta Atributo: N
+Check Interface Alta Atributo: RICARDO GONZALEZ
+Check Interface Alta Atributo: RICARDO
+Check Interface Alta Atributo: GONZALEZ
+Check Interface Alta Atributo: RODRIGUEZ
+Check Interface Alta Atributo: LLANTERA COELHO
+Check Interface Alta Atributo: 1129
+Check Interface Alta Atributo:
+Longitud Linea: 14
+Numero de Atributos: 14
+Check Interface Alta Atributo: 2
+Check Interface Alta Atributo: 10164812090000249749M
+Check Interface Alta Atributo: 0016
+Check Interface Alta Atributo: 00005
+Check Interface Alta Atributo: A
+Check Interface Alta Atributo: 4189281061232295
+Check Interface Alta Atributo: N
+Check Interface Alta Atributo: JUAN CHAVEZ
+Check Interface Alta Atributo: JUAN
+Check Interface Alta Atributo: CHAVEZ
+Check Interface Alta Atributo: TORRES
+Check Interface Alta Atributo: LLANTERA COELHO
+Check Interface Alta Atributo: 1129
+Check Interface Alta Atributo:
+Longitud Linea: 14
+Numero de Atributos: 14
+Check Interface Alta Atributo: 2
+Check Interface Alta Atributo: 10164812090000249749M
+Check Interface Alta Atributo: 0016
+Check Interface Alta Atributo: 00006
+Check Interface Alta Atributo: A
+Check Interface Alta Atributo: 4189281061232303
+Check Interface Alta Atributo: N
+Check Interface Alta Atributo: ROMAN HERRERA
+Check Interface Alta Atributo: ROMAN
+Check Interface Alta Atributo: HERRERA
+Check Interface Alta Atributo: HERRERA
+Check Interface Alta Atributo: LLANTERA COELHO
+Check Interface Alta Atributo: 1129
+Check Interface Alta Atributo:
+Longitud Linea: 14
+Numero de Atributos: 14
+Check Interface Alta Atributo: 2
+Check Interface Alta Atributo: 10164812090000249749M
+Check Interface Alta Atributo: 0016
+Check Interface Alta Atributo: 00007
+Check Interface Alta Atributo: A
+Check Interface Alta Atributo: 4189281061232311
+Check Interface Alta Atributo: N
+Check Interface Alta Atributo: CARMEN FIGUEROA
+Check Interface Alta Atributo: CARMEN
+Check Interface Alta Atributo: FIGUEROA
+Check Interface Alta Atributo: CARRIOLA
+Check Interface Alta Atributo: LLANTERA COELHO
+Check Interface Alta Atributo: 1129
+Check Interface Alta Atributo:
+Longitud Linea: 14
+Numero de Atributos: 14
+Check Interface Alta Atributo: 2
+Check Interface Alta Atributo: 10164812090000249749M
+Check Interface Alta Atributo: 0016
+Check Interface Alta Atributo: 00008
+Check Interface Alta Atributo: A
+Check Interface Alta Atributo: 4189281061232329
+Check Interface Alta Atributo: N
+Check Interface Alta Atributo: LUIS ALVAREZ
+Check Interface Alta Atributo: LUIS
+Check Interface Alta Atributo: ALVAREZ
+Check Interface Alta Atributo: ALVAREZ
+Check Interface Alta Atributo: LLANTERA COELHO
+Check Interface Alta Atributo: 1129
+Check Interface Alta Atributo:
+Longitud Linea: 14
+Numero de Atributos: 14
+Check Interface Alta Atributo: 2
+Check Interface Alta Atributo: 10164812090000249749M
+Check Interface Alta Atributo: 0016
+Check Interface Alta Atributo: 00009
+Check Interface Alta Atributo: A
+Check Interface Alta Atributo: 4189281061232337
+Check Interface Alta Atributo: N
+Check Interface Alta Atributo: LOURDES OLVERA
+Check Interface Alta Atributo: LOURDES
+Check Interface Alta Atributo: OLVERA
+Check Interface Alta Atributo: LUGARDO
+Check Interface Alta Atributo: LLANTERA COELHO
+Check Interface Alta Atributo: 1129
+Check Interface Alta Atributo:
+Longitud Linea: 14
+Numero de Atributos: 14
+Check Interface Alta Atributo: 2
+Check Interface Alta Atributo: 10164812090000249749M
+Check Interface Alta Atributo: 0016
+Check Interface Alta Atributo: 00010
+Check Interface Alta Atributo: A
+Check Interface Alta Atributo: 4189281061232345
+Check Interface Alta Atributo: N
+Check Interface Alta Atributo: ABRAHAM MONTES
+Check Interface Alta Atributo: ABRAHAM
+Check Interface Alta Atributo: MONTES
+Check Interface Alta Atributo: GONZALEZ
+Check Interface Alta Atributo: LLANTERA COELHO
+Check Interface Alta Atributo: 1129
+Check Interface Alta Atributo:
+Longitud Linea: 14
+Numero de Atributos: 14
+Check Interface Alta Atributo: 2
+Check Interface Alta Atributo: 10164812090000249749M
+Check Interface Alta Atributo: 0016
+Check Interface Alta Atributo: 00011
+Check Interface Alta Atributo: A
+Check Interface Alta Atributo: 4189281061232352
+Check Interface Alta Atributo: N
+Check Interface Alta Atributo: GLORIA VILLA
+Check Interface Alta Atributo: GLORIA
+Check Interface Alta Atributo: VILLA
+Check Interface Alta Atributo: MARTINEZ
+Check Interface Alta Atributo: LLANTERA COELHO
+Check Interface Alta Atributo: 1129
+Check Interface Alta Atributo:
+Longitud Linea: 14
+Numero de Atributos: 14
+Check Interface Alta Atributo: 2
+Check Interface Alta Atributo: 10164812090000249749M
+Check Interface Alta Atributo: 0016
+Check Interface Alta Atributo: 00012
+Check Interface Alta Atributo: A
+Check Interface Alta Atributo: 4189281061232360
+Check Interface Alta Atributo: N
+Check Interface Alta Atributo: GUSTAVO VILLEGAS
+Check Interface Alta Atributo: GUSTAVO
+Check Interface Alta Atributo: VILLEGAS
+Check Interface Alta Atributo: PEREZ
+Check Interface Alta Atributo: LLANTERA COELHO
+Check Interface Alta Atributo: 1129
+Check Interface Alta Atributo:
+Longitud Linea: 14
+Numero de Atributos: 14
+Check Interface Alta Atributo: 2
+Check Interface Alta Atributo: 10164812090000249749M
+Check Interface Alta Atributo: 0016
+Check Interface Alta Atributo: 00013
+Check Interface Alta Atributo: A
+Check Interface Alta Atributo: 4189281061232378
+Check Interface Alta Atributo: N
+Check Interface Alta Atributo: ADRIAN LEON
+Check Interface Alta Atributo: ADRIAN
+Check Interface Alta Atributo: LEON
+Check Interface Alta Atributo: CAMPOS
+Check Interface Alta Atributo: LLANTERA COELHO
+Check Interface Alta Atributo: 1129
+Check Interface Alta Atributo:
+Longitud Linea: 14
+Numero de Atributos: 14
+Check Interface Alta Atributo: 2
+Check Interface Alta Atributo: 10164812090000249749M
+Check Interface Alta Atributo: 0016
+Check Interface Alta Atributo: 00014
+Check Interface Alta Atributo: A
+Check Interface Alta Atributo: 4189281061232386
+Check Interface Alta Atributo: N
+Check Interface Alta Atributo: VIOLETA SERRANO
+Check Interface Alta Atributo: VIOLETA
+Check Interface Alta Atributo: SERRANO
+Check Interface Alta Atributo: RAMIREZ
+Check Interface Alta Atributo: LLANTERA COELHO
+Check Interface Alta Atributo: 1129
+Check Interface Alta Atributo:
+Longitud Linea: 14
+Numero de Atributos: 14
+Check Interface Alta Atributo: 2
+Check Interface Alta Atributo: 10164812090000249749M
+Check Interface Alta Atributo: 0016
+Check Interface Alta Atributo: 00015
+Check Interface Alta Atributo: A
+Check Interface Alta Atributo: 4189281061232394
+Check Interface Alta Atributo: N
+Check Interface Alta Atributo: JOSE PEREZ
+Check Interface Alta Atributo: JOSE
+Check Interface Alta Atributo: PEREZ
+Check Interface Alta Atributo: CRUZ
+Check Interface Alta Atributo: LLANTERA COELHO
+Check Interface Alta Atributo: 1129
+Check Interface Alta Atributo:
+Longitud Linea: 23
+Numero de Atributos: 21
+Check Interface Alta Atributo: 1
+Check Interface Alta Atributo: 10164812090000249749M
+Check Interface Alta Atributo: 0017
+Check Interface Alta Atributo: 00020
+Check Interface Alta Atributo: 2025-12-01
+Check Interface Alta Atributo: M
+Check Interface Alta Atributo: 1016183316
+Check Interface Alta Atributo: 0000249749
+Check Interface Alta Atributo: BEM
+Check Interface Alta Atributo: 2023-09-15
+Check Interface Alta Atributo: A
+Check Interface Alta Atributo: 000000000000000
+Check Interface Alta Atributo: C
+Check Interface Alta Atributo: 1654558
+Check Interface Alta Atributo: hector.mora@capgemini.com
+Check Interface Alta Atributo: LLANTERA COELHO
+Check Interface Alta Atributo: usrejec1@banorte.com
+Check Interface Alta Atributo: LLANTERA COELHO
+Check Interface Alta Atributo: MOSH760122HDFRNC00
+Check Interface Alta Atributo: 1016481209
+Check Interface Alta Atributo: N
+Longitud Linea: 14
+Numero de Atributos: 14
+Check Interface Alta Atributo: 2
+Check Interface Alta Atributo: 10164812090000249749M
+Check Interface Alta Atributo: 0017
+Check Interface Alta Atributo: 00001
+Check Interface Alta Atributo: A
+Check Interface Alta Atributo: 4189281061232402
+Check Interface Alta Atributo: I
+Check Interface Alta Atributo:
+Check Interface Alta Atributo:
+Check Interface Alta Atributo:
+Check Interface Alta Atributo:
+Check Interface Alta Atributo: LLANTERA COELHO
+Check Interface Alta Atributo: 1129
+Check Interface Alta Atributo:
+Longitud Linea: 14
+Numero de Atributos: 14
+Check Interface Alta Atributo: 2
+Check Interface Alta Atributo: 10164812090000249749M
+Check Interface Alta Atributo: 0017
+Check Interface Alta Atributo: 00002
+Check Interface Alta Atributo: A
+Check Interface Alta Atributo: 4189281061232410
+Check Interface Alta Atributo: I
+Check Interface Alta Atributo:
+Check Interface Alta Atributo:
+Check Interface Alta Atributo:
+Check Interface Alta Atributo:
+Check Interface Alta Atributo: LLANTERA COELHO
+Check Interface Alta Atributo: 1129
+Check Interface Alta Atributo:
+Longitud Linea: 14
+Numero de Atributos: 14
+Check Interface Alta Atributo: 2
+Check Interface Alta Atributo: 10164812090000249749M
+Check Interface Alta Atributo: 0017
+Check Interface Alta Atributo: 00003
+Check Interface Alta Atributo: A
+Check Interface Alta Atributo: 4189281061232428
+Check Interface Alta Atributo: I
+Check Interface Alta Atributo:
+Check Interface Alta Atributo:
+Check Interface Alta Atributo:
+Check Interface Alta Atributo:
+Check Interface Alta Atributo: LLANTERA COELHO
+Check Interface Alta Atributo: 1129
+Check Interface Alta Atributo:
+Longitud Linea: 14
+Numero de Atributos: 14
+Check Interface Alta Atributo: 2
+Check Interface Alta Atributo: 10164812090000249749M
+Check Interface Alta Atributo: 0017
+Check Interface Alta Atributo: 00004
+Check Interface Alta Atributo: A
+Check Interface Alta Atributo: 4189281061232436
+Check Interface Alta Atributo: I
+Check Interface Alta Atributo:
+Check Interface Alta Atributo:
+Check Interface Alta Atributo:
+Check Interface Alta Atributo:
+Check Interface Alta Atributo: LLANTERA COELHO
+Check Interface Alta Atributo: 1129
+Check Interface Alta Atributo:
+Longitud Linea: 14
+Numero de Atributos: 14
+Check Interface Alta Atributo: 2
+Check Interface Alta Atributo: 10164812090000249749M
+Check Interface Alta Atributo: 0017
+Check Interface Alta Atributo: 00005
+Check Interface Alta Atributo: A
+Check Interface Alta Atributo: 4189281061232444
+Check Interface Alta Atributo: I
+Check Interface Alta Atributo:
+Check Interface Alta Atributo:
+Check Interface Alta Atributo:
+Check Interface Alta Atributo:
+Check Interface Alta Atributo: LLANTERA COELHO
+Check Interface Alta Atributo: 1129
+Check Interface Alta Atributo:
+Longitud Linea: 14
+Numero de Atributos: 14
+Check Interface Alta Atributo: 2
+Check Interface Alta Atributo: 10164812090000249749M
+Check Interface Alta Atributo: 0017
+Check Interface Alta Atributo: 00006
+Check Interface Alta Atributo: A
+Check Interface Alta Atributo: 4189281061232451
+Check Interface Alta Atributo: I
+Check Interface Alta Atributo:
+Check Interface Alta Atributo:
+Check Interface Alta Atributo:
+Check Interface Alta Atributo:
+Check Interface Alta Atributo: LLANTERA COELHO
+Check Interface Alta Atributo: 1129
+Check Interface Alta Atributo:
+Longitud Linea: 14
+Numero de Atributos: 14
+Check Interface Alta Atributo: 2
+Check Interface Alta Atributo: 10164812090000249749M
+Check Interface Alta Atributo: 0017
+Check Interface Alta Atributo: 00007
+Check Interface Alta Atributo: A
+Check Interface Alta Atributo: 4189281061232469
+Check Interface Alta Atributo: I
+Check Interface Alta Atributo:
+Check Interface Alta Atributo:
+Check Interface Alta Atributo:
+Check Interface Alta Atributo:
+Check Interface Alta Atributo: LLANTERA COELHO
+Check Interface Alta Atributo: 1129
+Check Interface Alta Atributo:
+Longitud Linea: 14
+Numero de Atributos: 14
+Check Interface Alta Atributo: 2
+Check Interface Alta Atributo: 10164812090000249749M
+Check Interface Alta Atributo: 0017
+Check Interface Alta Atributo: 00008
+Check Interface Alta Atributo: A
+Check Interface Alta Atributo: 4189281061232477
+Check Interface Alta Atributo: I
+Check Interface Alta Atributo:
+Check Interface Alta Atributo:
+Check Interface Alta Atributo:
+Check Interface Alta Atributo:
+Check Interface Alta Atributo: LLANTERA COELHO
+Check Interface Alta Atributo: 1129
+Check Interface Alta Atributo:
+Longitud Linea: 14
+Numero de Atributos: 14
+Check Interface Alta Atributo: 2
+Check Interface Alta Atributo: 10164812090000249749M
+Check Interface Alta Atributo: 0017
+Check Interface Alta Atributo: 00009
+Check Interface Alta Atributo: A
+Check Interface Alta Atributo: 4189281061232485
+Check Interface Alta Atributo: I
+Check Interface Alta Atributo:
+Check Interface Alta Atributo:
+Check Interface Alta Atributo:
+Check Interface Alta Atributo:
+Check Interface Alta Atributo: LLANTERA COELHO
+Check Interface Alta Atributo: 1129
+Check Interface Alta Atributo:
+Longitud Linea: 14
+Numero de Atributos: 14
+Check Interface Alta Atributo: 2
+Check Interface Alta Atributo: 10164812090000249749M
+Check Interface Alta Atributo: 0017
+Check Interface Alta Atributo: 00010
+Check Interface Alta Atributo: A
+Check Interface Alta Atributo: 4189281061232493
+Check Interface Alta Atributo: I
+Check Interface Alta Atributo:
+Check Interface Alta Atributo:
+Check Interface Alta Atributo:
+Check Interface Alta Atributo:
+Check Interface Alta Atributo: LLANTERA COELHO
+Check Interface Alta Atributo: 1129
+Check Interface Alta Atributo:
+Longitud Linea: 14
+Numero de Atributos: 14
+Check Interface Alta Atributo: 2
+Check Interface Alta Atributo: 10164812090000249749M
+Check Interface Alta Atributo: 0017
+Check Interface Alta Atributo: 00011
+Check Interface Alta Atributo: A
+Check Interface Alta Atributo: 4189281061232501
+Check Interface Alta Atributo: I
+Check Interface Alta Atributo:
+Check Interface Alta Atributo:
+Check Interface Alta Atributo:
+Check Interface Alta Atributo:
+Check Interface Alta Atributo: LLANTERA COELHO
+Check Interface Alta Atributo: 1129
+Check Interface Alta Atributo:
+Longitud Linea: 14
+Numero de Atributos: 14
+Check Interface Alta Atributo: 2
+Check Interface Alta Atributo: 10164812090000249749M
+Check Interface Alta Atributo: 0017
+Check Interface Alta Atributo: 00012
+Check Interface Alta Atributo: A
+Check Interface Alta Atributo: 4189281061232519
+Check Interface Alta Atributo: I
+Check Interface Alta Atributo:
+Check Interface Alta Atributo:
+Check Interface Alta Atributo:
+Check Interface Alta Atributo:
+Check Interface Alta Atributo: LLANTERA COELHO
+Check Interface Alta Atributo: 1129
+Check Interface Alta Atributo:
+Longitud Linea: 14
+Numero de Atributos: 14
+Check Interface Alta Atributo: 2
+Check Interface Alta Atributo: 10164812090000249749M
+Check Interface Alta Atributo: 0017
+Check Interface Alta Atributo: 00013
+Check Interface Alta Atributo: A
+Check Interface Alta Atributo: 4189281061232527
+Check Interface Alta Atributo: I
+Check Interface Alta Atributo:
+Check Interface Alta Atributo:
+Check Interface Alta Atributo:
+Check Interface Alta Atributo:
+Check Interface Alta Atributo: LLANTERA COELHO
+Check Interface Alta Atributo: 1129
+Check Interface Alta Atributo:
+Longitud Linea: 14
+Numero de Atributos: 14
+Check Interface Alta Atributo: 2
+Check Interface Alta Atributo: 10164812090000249749M
+Check Interface Alta Atributo: 0017
+Check Interface Alta Atributo: 00014
+Check Interface Alta Atributo: A
+Check Interface Alta Atributo: 4189281061232535
+Check Interface Alta Atributo: I
+Check Interface Alta Atributo:
+Check Interface Alta Atributo:
+Check Interface Alta Atributo:
+Check Interface Alta Atributo:
+Check Interface Alta Atributo: LLANTERA COELHO
+Check Interface Alta Atributo: 1129
+Check Interface Alta Atributo:
+Longitud Linea: 14
+Numero de Atributos: 14
+Check Interface Alta Atributo: 2
+Check Interface Alta Atributo: 10164812090000249749M
+Check Interface Alta Atributo: 0017
+Check Interface Alta Atributo: 00015
+Check Interface Alta Atributo: A
+Check Interface Alta Atributo: 4189281061232543
+Check Interface Alta Atributo: I
+Check Interface Alta Atributo:
+Check Interface Alta Atributo:
+Check Interface Alta Atributo:
+Check Interface Alta Atributo:
+Check Interface Alta Atributo: LLANTERA COELHO
+Check Interface Alta Atributo: 1129
+Check Interface Alta Atributo:
+Longitud Linea: 14
+Numero de Atributos: 14
+Check Interface Alta Atributo: 2
+Check Interface Alta Atributo: 10164812090000249749M
+Check Interface Alta Atributo: 0017
+Check Interface Alta Atributo: 00016
+Check Interface Alta Atributo: A
+Check Interface Alta Atributo: 4189281061232550
+Check Interface Alta Atributo: I
+Check Interface Alta Atributo:
+Check Interface Alta Atributo:
+Check Interface Alta Atributo:
+Check Interface Alta Atributo:
+Check Interface Alta Atributo: LLANTERA COELHO
+Check Interface Alta Atributo: 1129
+Check Interface Alta Atributo:
+Longitud Linea: 14
+Numero de Atributos: 14
+Check Interface Alta Atributo: 2
+Check Interface Alta Atributo: 10164812090000249749M
+Check Interface Alta Atributo: 0017
+Check Interface Alta Atributo: 00017
+Check Interface Alta Atributo: A
+Check Interface Alta Atributo: 4189281061232568
+Check Interface Alta Atributo: I
+Check Interface Alta Atributo:
+Check Interface Alta Atributo:
+Check Interface Alta Atributo:
+Check Interface Alta Atributo:
+Check Interface Alta Atributo: LLANTERA COELHO
+Check Interface Alta Atributo: 1129
+Check Interface Alta Atributo:
+Longitud Linea: 14
+Numero de Atributos: 14
+Check Interface Alta Atributo: 2
+Check Interface Alta Atributo: 10164812090000249749M
+Check Interface Alta Atributo: 0017
+Check Interface Alta Atributo: 00018
+Check Interface Alta Atributo: A
+Check Interface Alta Atributo: 4189281061232576
+Check Interface Alta Atributo: I
+Check Interface Alta Atributo:
+Check Interface Alta Atributo:
+Check Interface Alta Atributo:
+Check Interface Alta Atributo:
+Check Interface Alta Atributo: LLANTERA COELHO
+Check Interface Alta Atributo: 1129
+Check Interface Alta Atributo:
+Longitud Linea: 14
+Numero de Atributos: 14
+Check Interface Alta Atributo: 2
+Check Interface Alta Atributo: 10164812090000249749M
+Check Interface Alta Atributo: 0017
+Check Interface Alta Atributo: 00019
+Check Interface Alta Atributo: A
+Check Interface Alta Atributo: 4189281061232584
+Check Interface Alta Atributo: I
+Check Interface Alta Atributo:
+Check Interface Alta Atributo:
+Check Interface Alta Atributo:
+Check Interface Alta Atributo:
+Check Interface Alta Atributo: LLANTERA COELHO
+Check Interface Alta Atributo: 1129
+Check Interface Alta Atributo:
+Longitud Linea: 14
+Numero de Atributos: 14
+Check Interface Alta Atributo: 2
+Check Interface Alta Atributo: 10164812090000249749M
+Check Interface Alta Atributo: 0017
+Check Interface Alta Atributo: 00020
+Check Interface Alta Atributo: A
+Check Interface Alta Atributo: 4189281061232592
+Check Interface Alta Atributo: I
+Check Interface Alta Atributo:
+Check Interface Alta Atributo:
+Check Interface Alta Atributo:
+Check Interface Alta Atributo:
+Check Interface Alta Atributo: LLANTERA COELHO
+Check Interface Alta Atributo: 1129
+Check Interface Alta Atributo:
+Longitud Linea: 5
+Numero de Atributos: 5
+Check Interface Alta Atributo: 9
+Check Interface Alta Atributo: 2025-12-01
+Check Interface Alta Atributo: 0000002
+Check Interface Alta Atributo: 0000035
+Check Interface Alta Atributo:
+FIELD_GENERAL_TYPE_0
+Tipo Dato: [1]{1}
+Tipo Lista Auxiliar: 1
+FIELD_GENERAL_TYPE_1
+Tipo Dato: .{21}
+Tipo Lista Auxiliar: 10164812090000249749M
+FIELD_GENERAL_TYPE_2
+Tipo Dato: [0-9]{4}
+Tipo Lista Auxiliar: 0016
+FIELD_GENERAL_TYPE_3
+Tipo Dato: [0-9]{5}
+Tipo Lista Auxiliar: 00015
+FIELD_GENERAL_TYPE_4
+Tipo Dato: [0-9]{4}[-]{1}[0-9]{2}[-]{1}[0-9]{2}
+Tipo Lista Auxiliar: 2025-12-01
+FIELD_GENERAL_TYPE_5
+Tipo Dato: [A|M]{1}
+Tipo Lista Auxiliar: M
+FIELD_GENERAL_TYPE_6
+Tipo Dato: [0-9]{10}
+Tipo Lista Auxiliar: 1016183316
+FIELD_GENERAL_TYPE_7
+Tipo Dato: [0-9]{10}
+Tipo Lista Auxiliar: 0000249749
+FIELD_GENERAL_TYPE_8
+Tipo Dato: [BEM|BEP]{3}
+Tipo Lista Auxiliar: BEM
+FIELD_GENERAL_TYPE_9
+Tipo Dato: [0-9]{4}[-]{1}[0-9]{2}[-]{1}[0-9]{2}
+Tipo Lista Auxiliar: 2023-09-15
+FIELD_GENERAL_TYPE_10
+Tipo Dato: [A|P|R|S|C]{1}
+Tipo Lista Auxiliar: A
+FIELD_GENERAL_TYPE_11
+Tipo Dato: [0-9]{15}
+Tipo Lista Auxiliar: 000000000000000
+FIELD_GENERAL_TYPE_12
+Tipo Dato: [I|C|\s]{1}
+Tipo Lista Auxiliar: C
+FIELD_GENERAL_TYPE_13
+Tipo Dato: .{20}
+Tipo Lista Auxiliar: 1654558
+FIELD_GENERAL_TYPE_14
+Tipo Dato: .{50}
+Tipo Lista Auxiliar: hector.mora@capgemini.com
+FIELD_GENERAL_TYPE_15
+Tipo Dato: .{60}
+Tipo Lista Auxiliar: LLANTERA COELHO
+FIELD_GENERAL_TYPE_16
+Tipo Dato: .{50}
+Tipo Lista Auxiliar: usrejec1@banorte.com
+FIELD_GENERAL_TYPE_17
+Tipo Dato: .{60}
+Tipo Lista Auxiliar: LLANTERA COELHO
+FIELD_GENERAL_TYPE_18
+Tipo Dato: .{18}
+Tipo Lista Auxiliar: MOSH760122HDFRNC00
+FIELD_GENERAL_TYPE_19
+Tipo Dato: .{10}
+Tipo Lista Auxiliar: 1016481209
+FIELD_GENERAL_TYPE_20
+Tipo Dato: .{1}
+Tipo Lista Auxiliar: N
+SALE DEL BUCLE
+NUM19: 1016481209
+Objeto Empresa: com.novo.bean.Empresa@5bcab519
+FIELD_GENERAL_TYPE_0
+Tipo Dato: [1]{1}
+Tipo Lista Auxiliar: 1
+FIELD_GENERAL_TYPE_1
+Tipo Dato: .{21}
+Tipo Lista Auxiliar: 10164812090000249749M
+FIELD_GENERAL_TYPE_2
+Tipo Dato: [0-9]{4}
+Tipo Lista Auxiliar: 0017
+FIELD_GENERAL_TYPE_3
+Tipo Dato: [0-9]{5}
+Tipo Lista Auxiliar: 00020
+FIELD_GENERAL_TYPE_4
+Tipo Dato: [0-9]{4}[-]{1}[0-9]{2}[-]{1}[0-9]{2}
+Tipo Lista Auxiliar: 2025-12-01
+FIELD_GENERAL_TYPE_5
+Tipo Dato: [A|M]{1}
+Tipo Lista Auxiliar: M
+FIELD_GENERAL_TYPE_6
+Tipo Dato: [0-9]{10}
+Tipo Lista Auxiliar: 1016183316
+FIELD_GENERAL_TYPE_7
+Tipo Dato: [0-9]{10}
+Tipo Lista Auxiliar: 0000249749
+FIELD_GENERAL_TYPE_8
+Tipo Dato: [BEM|BEP]{3}
+Tipo Lista Auxiliar: BEM
+FIELD_GENERAL_TYPE_9
+Tipo Dato: [0-9]{4}[-]{1}[0-9]{2}[-]{1}[0-9]{2}
+Tipo Lista Auxiliar: 2023-09-15
+FIELD_GENERAL_TYPE_10
+Tipo Dato: [A|P|R|S|C]{1}
+Tipo Lista Auxiliar: A
+FIELD_GENERAL_TYPE_11
+Tipo Dato: [0-9]{15}
+Tipo Lista Auxiliar: 000000000000000
+FIELD_GENERAL_TYPE_12
+Tipo Dato: [I|C|\s]{1}
+Tipo Lista Auxiliar: C
+FIELD_GENERAL_TYPE_13
+Tipo Dato: .{20}
+Tipo Lista Auxiliar: 1654558
+FIELD_GENERAL_TYPE_14
+Tipo Dato: .{50}
+Tipo Lista Auxiliar: hector.mora@capgemini.com
+FIELD_GENERAL_TYPE_15
+Tipo Dato: .{60}
+Tipo Lista Auxiliar: LLANTERA COELHO
+FIELD_GENERAL_TYPE_16
+Tipo Dato: .{50}
+Tipo Lista Auxiliar: usrejec1@banorte.com
+FIELD_GENERAL_TYPE_17
+Tipo Dato: .{60}
+Tipo Lista Auxiliar: LLANTERA COELHO
+FIELD_GENERAL_TYPE_18
+Tipo Dato: .{18}
+Tipo Lista Auxiliar: MOSH760122HDFRNC00
+FIELD_GENERAL_TYPE_19
+Tipo Dato: .{10}
+Tipo Lista Auxiliar: 1016481209
+FIELD_GENERAL_TYPE_20
+Tipo Dato: .{1}
+Tipo Lista Auxiliar: N
+SALE DEL BUCLE
+NUM19: 1016481209
+Objeto Empresa: com.novo.bean.Empresa@e45f292
+Tipo Dato: [2]{1}
+Tipo Dato Lista: 2
+Tipo Dato: .{21}
+Tipo Dato Lista: 10164812090000249749M
+Tipo Dato: [0-9]{4}
+Tipo Dato Lista: 0016
+Tipo Dato: [0-9]{5}
+Tipo Dato Lista: 00001
+Tipo Dato: [A]{1}
+Tipo Dato Lista: A
+Tipo Dato: [0-9]{16}
+Tipo Dato Lista: 4189281061232253
+Tipo Dato: [N|I]{1}
+Tipo Dato Lista: N
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista: CESAR RAMOS
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{25}
+Tipo Dato Lista: CESAR
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista: RAMOS
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista: CASADO
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista: LLANTERA COELHO
+Tipo Dato: .{4}
+Tipo Dato Lista: 1129
+Tipo Dato: .{235}
+Tipo Dato Lista:
+Objeto Tarjeta: com.novo.bean.Tarjeta@31a5c39e
+Tipo Dato: [2]{1}
+Tipo Dato Lista: 2
+Tipo Dato: .{21}
+Tipo Dato Lista: 10164812090000249749M
+Tipo Dato: [0-9]{4}
+Tipo Dato Lista: 0016
+Tipo Dato: [0-9]{5}
+Tipo Dato Lista: 00002
+Tipo Dato: [A]{1}
+Tipo Dato Lista: A
+Tipo Dato: [0-9]{16}
+Tipo Dato Lista: 4189281061232261
+Tipo Dato: [N|I]{1}
+Tipo Dato Lista: N
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista: FERNANDO RAMIREZ
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{25}
+Tipo Dato Lista: FERNANDO
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista: RAMIREZ
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista: RAMIREZ
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista: LLANTERA COELHO
+Tipo Dato: .{4}
+Tipo Dato Lista: 1129
+Tipo Dato: .{235}
+Tipo Dato Lista:
+Objeto Tarjeta: com.novo.bean.Tarjeta@3f49dace
+Tipo Dato: [2]{1}
+Tipo Dato Lista: 2
+Tipo Dato: .{21}
+Tipo Dato Lista: 10164812090000249749M
+Tipo Dato: [0-9]{4}
+Tipo Dato Lista: 0016
+Tipo Dato: [0-9]{5}
+Tipo Dato Lista: 00003
+Tipo Dato: [A]{1}
+Tipo Dato Lista: A
+Tipo Dato: [0-9]{16}
+Tipo Dato Lista: 4189281061232279
+Tipo Dato: [N|I]{1}
+Tipo Dato Lista: N
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista: RODRIGO HERNANDEZ
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{25}
+Tipo Dato Lista: RODRIGO
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista: HERNANDEZ
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista: HERNANDEZ
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista: LLANTERA COELHO
+Tipo Dato: .{4}
+Tipo Dato Lista: 1129
+Tipo Dato: .{235}
+Tipo Dato Lista:
+Objeto Tarjeta: com.novo.bean.Tarjeta@1e397ed7
+Tipo Dato: [2]{1}
+Tipo Dato Lista: 2
+Tipo Dato: .{21}
+Tipo Dato Lista: 10164812090000249749M
+Tipo Dato: [0-9]{4}
+Tipo Dato Lista: 0016
+Tipo Dato: [0-9]{5}
+Tipo Dato Lista: 00004
+Tipo Dato: [A]{1}
+Tipo Dato Lista: A
+Tipo Dato: [0-9]{16}
+Tipo Dato Lista: 4189281061232287
+Tipo Dato: [N|I]{1}
+Tipo Dato Lista: N
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista: RICARDO GONZALEZ
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{25}
+Tipo Dato Lista: RICARDO
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista: GONZALEZ
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista: RODRIGUEZ
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista: LLANTERA COELHO
+Tipo Dato: .{4}
+Tipo Dato Lista: 1129
+Tipo Dato: .{235}
+Tipo Dato Lista:
+Objeto Tarjeta: com.novo.bean.Tarjeta@490ab905
+Tipo Dato: [2]{1}
+Tipo Dato Lista: 2
+Tipo Dato: .{21}
+Tipo Dato Lista: 10164812090000249749M
+Tipo Dato: [0-9]{4}
+Tipo Dato Lista: 0016
+Tipo Dato: [0-9]{5}
+Tipo Dato Lista: 00005
+Tipo Dato: [A]{1}
+Tipo Dato Lista: A
+Tipo Dato: [0-9]{16}
+Tipo Dato Lista: 4189281061232295
+Tipo Dato: [N|I]{1}
+Tipo Dato Lista: N
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista: JUAN CHAVEZ
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{25}
+Tipo Dato Lista: JUAN
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista: CHAVEZ
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista: TORRES
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista: LLANTERA COELHO
+Tipo Dato: .{4}
+Tipo Dato Lista: 1129
+Tipo Dato: .{235}
+Tipo Dato Lista:
+Objeto Tarjeta: com.novo.bean.Tarjeta@56ac3a89
+Tipo Dato: [2]{1}
+Tipo Dato Lista: 2
+Tipo Dato: .{21}
+Tipo Dato Lista: 10164812090000249749M
+Tipo Dato: [0-9]{4}
+Tipo Dato Lista: 0016
+Tipo Dato: [0-9]{5}
+Tipo Dato Lista: 00006
+Tipo Dato: [A]{1}
+Tipo Dato Lista: A
+Tipo Dato: [0-9]{16}
+Tipo Dato Lista: 4189281061232303
+Tipo Dato: [N|I]{1}
+Tipo Dato Lista: N
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista: ROMAN HERRERA
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{25}
+Tipo Dato Lista: ROMAN
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista: HERRERA
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista: HERRERA
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista: LLANTERA COELHO
+Tipo Dato: .{4}
+Tipo Dato Lista: 1129
+Tipo Dato: .{235}
+Tipo Dato Lista:
+Objeto Tarjeta: com.novo.bean.Tarjeta@27c20538
+Tipo Dato: [2]{1}
+Tipo Dato Lista: 2
+Tipo Dato: .{21}
+Tipo Dato Lista: 10164812090000249749M
+Tipo Dato: [0-9]{4}
+Tipo Dato Lista: 0016
+Tipo Dato: [0-9]{5}
+Tipo Dato Lista: 00007
+Tipo Dato: [A]{1}
+Tipo Dato Lista: A
+Tipo Dato: [0-9]{16}
+Tipo Dato Lista: 4189281061232311
+Tipo Dato: [N|I]{1}
+Tipo Dato Lista: N
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista: CARMEN FIGUEROA
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{25}
+Tipo Dato Lista: CARMEN
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista: FIGUEROA
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista: CARRIOLA
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista: LLANTERA COELHO
+Tipo Dato: .{4}
+Tipo Dato Lista: 1129
+Tipo Dato: .{235}
+Tipo Dato Lista:
+Objeto Tarjeta: com.novo.bean.Tarjeta@72d818d1
+Tipo Dato: [2]{1}
+Tipo Dato Lista: 2
+Tipo Dato: .{21}
+Tipo Dato Lista: 10164812090000249749M
+Tipo Dato: [0-9]{4}
+Tipo Dato Lista: 0016
+Tipo Dato: [0-9]{5}
+Tipo Dato Lista: 00008
+Tipo Dato: [A]{1}
+Tipo Dato Lista: A
+Tipo Dato: [0-9]{16}
+Tipo Dato Lista: 4189281061232329
+Tipo Dato: [N|I]{1}
+Tipo Dato Lista: N
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista: LUIS ALVAREZ
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{25}
+Tipo Dato Lista: LUIS
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista: ALVAREZ
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista: ALVAREZ
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista: LLANTERA COELHO
+Tipo Dato: .{4}
+Tipo Dato Lista: 1129
+Tipo Dato: .{235}
+Tipo Dato Lista:
+Objeto Tarjeta: com.novo.bean.Tarjeta@6e06451e
+Tipo Dato: [2]{1}
+Tipo Dato Lista: 2
+Tipo Dato: .{21}
+Tipo Dato Lista: 10164812090000249749M
+Tipo Dato: [0-9]{4}
+Tipo Dato Lista: 0016
+Tipo Dato: [0-9]{5}
+Tipo Dato Lista: 00009
+Tipo Dato: [A]{1}
+Tipo Dato Lista: A
+Tipo Dato: [0-9]{16}
+Tipo Dato Lista: 4189281061232337
+Tipo Dato: [N|I]{1}
+Tipo Dato Lista: N
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista: LOURDES OLVERA
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{25}
+Tipo Dato Lista: LOURDES
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista: OLVERA
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista: LUGARDO
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista: LLANTERA COELHO
+Tipo Dato: .{4}
+Tipo Dato Lista: 1129
+Tipo Dato: .{235}
+Tipo Dato Lista:
+Objeto Tarjeta: com.novo.bean.Tarjeta@59494225
+Tipo Dato: [2]{1}
+Tipo Dato Lista: 2
+Tipo Dato: .{21}
+Tipo Dato Lista: 10164812090000249749M
+Tipo Dato: [0-9]{4}
+Tipo Dato Lista: 0016
+Tipo Dato: [0-9]{5}
+Tipo Dato Lista: 00010
+Tipo Dato: [A]{1}
+Tipo Dato Lista: A
+Tipo Dato: [0-9]{16}
+Tipo Dato Lista: 4189281061232345
+Tipo Dato: [N|I]{1}
+Tipo Dato Lista: N
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista: ABRAHAM MONTES
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{25}
+Tipo Dato Lista: ABRAHAM
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista: MONTES
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista: GONZALEZ
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista: LLANTERA COELHO
+Tipo Dato: .{4}
+Tipo Dato Lista: 1129
+Tipo Dato: .{235}
+Tipo Dato Lista:
+Objeto Tarjeta: com.novo.bean.Tarjeta@6e1567f1
+Tipo Dato: [2]{1}
+Tipo Dato Lista: 2
+Tipo Dato: .{21}
+Tipo Dato Lista: 10164812090000249749M
+Tipo Dato: [0-9]{4}
+Tipo Dato Lista: 0016
+Tipo Dato: [0-9]{5}
+Tipo Dato Lista: 00011
+Tipo Dato: [A]{1}
+Tipo Dato Lista: A
+Tipo Dato: [0-9]{16}
+Tipo Dato Lista: 4189281061232352
+Tipo Dato: [N|I]{1}
+Tipo Dato Lista: N
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista: GLORIA VILLA
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{25}
+Tipo Dato Lista: GLORIA
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista: VILLA
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista: MARTINEZ
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista: LLANTERA COELHO
+Tipo Dato: .{4}
+Tipo Dato Lista: 1129
+Tipo Dato: .{235}
+Tipo Dato Lista:
+Objeto Tarjeta: com.novo.bean.Tarjeta@5cb9f472
+Tipo Dato: [2]{1}
+Tipo Dato Lista: 2
+Tipo Dato: .{21}
+Tipo Dato Lista: 10164812090000249749M
+Tipo Dato: [0-9]{4}
+Tipo Dato Lista: 0016
+Tipo Dato: [0-9]{5}
+Tipo Dato Lista: 00012
+Tipo Dato: [A]{1}
+Tipo Dato Lista: A
+Tipo Dato: [0-9]{16}
+Tipo Dato Lista: 4189281061232360
+Tipo Dato: [N|I]{1}
+Tipo Dato Lista: N
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista: GUSTAVO VILLEGAS
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{25}
+Tipo Dato Lista: GUSTAVO
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista: VILLEGAS
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista: PEREZ
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista: LLANTERA COELHO
+Tipo Dato: .{4}
+Tipo Dato Lista: 1129
+Tipo Dato: .{235}
+Tipo Dato Lista:
+Objeto Tarjeta: com.novo.bean.Tarjeta@cb644e
+Tipo Dato: [2]{1}
+Tipo Dato Lista: 2
+Tipo Dato: .{21}
+Tipo Dato Lista: 10164812090000249749M
+Tipo Dato: [0-9]{4}
+Tipo Dato Lista: 0016
+Tipo Dato: [0-9]{5}
+Tipo Dato Lista: 00013
+Tipo Dato: [A]{1}
+Tipo Dato Lista: A
+Tipo Dato: [0-9]{16}
+Tipo Dato Lista: 4189281061232378
+Tipo Dato: [N|I]{1}
+Tipo Dato Lista: N
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista: ADRIAN LEON
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{25}
+Tipo Dato Lista: ADRIAN
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista: LEON
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista: CAMPOS
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista: LLANTERA COELHO
+Tipo Dato: .{4}
+Tipo Dato Lista: 1129
+Tipo Dato: .{235}
+Tipo Dato Lista:
+Objeto Tarjeta: com.novo.bean.Tarjeta@13805618
+Tipo Dato: [2]{1}
+Tipo Dato Lista: 2
+Tipo Dato: .{21}
+Tipo Dato Lista: 10164812090000249749M
+Tipo Dato: [0-9]{4}
+Tipo Dato Lista: 0016
+Tipo Dato: [0-9]{5}
+Tipo Dato Lista: 00014
+Tipo Dato: [A]{1}
+Tipo Dato Lista: A
+Tipo Dato: [0-9]{16}
+Tipo Dato Lista: 4189281061232386
+Tipo Dato: [N|I]{1}
+Tipo Dato Lista: N
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista: VIOLETA SERRANO
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{25}
+Tipo Dato Lista: VIOLETA
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista: SERRANO
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista: RAMIREZ
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista: LLANTERA COELHO
+Tipo Dato: .{4}
+Tipo Dato Lista: 1129
+Tipo Dato: .{235}
+Tipo Dato Lista:
+Objeto Tarjeta: com.novo.bean.Tarjeta@56ef9176
+Tipo Dato: [2]{1}
+Tipo Dato Lista: 2
+Tipo Dato: .{21}
+Tipo Dato Lista: 10164812090000249749M
+Tipo Dato: [0-9]{4}
+Tipo Dato Lista: 0016
+Tipo Dato: [0-9]{5}
+Tipo Dato Lista: 00015
+Tipo Dato: [A]{1}
+Tipo Dato Lista: A
+Tipo Dato: [0-9]{16}
+Tipo Dato Lista: 4189281061232394
+Tipo Dato: [N|I]{1}
+Tipo Dato Lista: N
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista: JOSE PEREZ
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{25}
+Tipo Dato Lista: JOSE
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista: PEREZ
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista: CRUZ
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista: LLANTERA COELHO
+Tipo Dato: .{4}
+Tipo Dato Lista: 1129
+Tipo Dato: .{235}
+Tipo Dato Lista:
+Objeto Tarjeta: com.novo.bean.Tarjeta@4566e5bd
+Tipo Dato: [2]{1}
+Tipo Dato Lista: 2
+Tipo Dato: .{21}
+Tipo Dato Lista: 10164812090000249749M
+Tipo Dato: [0-9]{4}
+Tipo Dato Lista: 0017
+Tipo Dato: [0-9]{5}
+Tipo Dato Lista: 00001
+Tipo Dato: [A]{1}
+Tipo Dato Lista: A
+Tipo Dato: [0-9]{16}
+Tipo Dato Lista: 4189281061232402
+Tipo Dato: [N|I]{1}
+Tipo Dato Lista: I
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{25}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista: LLANTERA COELHO
+Tipo Dato: .{4}
+Tipo Dato Lista: 1129
+Tipo Dato: .{235}
+Tipo Dato Lista:
+Objeto Tarjeta: com.novo.bean.Tarjeta@1ed4004b
+Tipo Dato: [2]{1}
+Tipo Dato Lista: 2
+Tipo Dato: .{21}
+Tipo Dato Lista: 10164812090000249749M
+Tipo Dato: [0-9]{4}
+Tipo Dato Lista: 0017
+Tipo Dato: [0-9]{5}
+Tipo Dato Lista: 00002
+Tipo Dato: [A]{1}
+Tipo Dato Lista: A
+Tipo Dato: [0-9]{16}
+Tipo Dato Lista: 4189281061232410
+Tipo Dato: [N|I]{1}
+Tipo Dato Lista: I
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{25}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista: LLANTERA COELHO
+Tipo Dato: .{4}
+Tipo Dato Lista: 1129
+Tipo Dato: .{235}
+Tipo Dato Lista:
+Objeto Tarjeta: com.novo.bean.Tarjeta@ff5b51f
+Tipo Dato: [2]{1}
+Tipo Dato Lista: 2
+Tipo Dato: .{21}
+Tipo Dato Lista: 10164812090000249749M
+Tipo Dato: [0-9]{4}
+Tipo Dato Lista: 0017
+Tipo Dato: [0-9]{5}
+Tipo Dato Lista: 00003
+Tipo Dato: [A]{1}
+Tipo Dato Lista: A
+Tipo Dato: [0-9]{16}
+Tipo Dato Lista: 4189281061232428
+Tipo Dato: [N|I]{1}
+Tipo Dato Lista: I
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{25}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista: LLANTERA COELHO
+Tipo Dato: .{4}
+Tipo Dato Lista: 1129
+Tipo Dato: .{235}
+Tipo Dato Lista:
+Objeto Tarjeta: com.novo.bean.Tarjeta@25bbe1b6
+Tipo Dato: [2]{1}
+Tipo Dato Lista: 2
+Tipo Dato: .{21}
+Tipo Dato Lista: 10164812090000249749M
+Tipo Dato: [0-9]{4}
+Tipo Dato Lista: 0017
+Tipo Dato: [0-9]{5}
+Tipo Dato Lista: 00004
+Tipo Dato: [A]{1}
+Tipo Dato Lista: A
+Tipo Dato: [0-9]{16}
+Tipo Dato Lista: 4189281061232436
+Tipo Dato: [N|I]{1}
+Tipo Dato Lista: I
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{25}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista: LLANTERA COELHO
+Tipo Dato: .{4}
+Tipo Dato Lista: 1129
+Tipo Dato: .{235}
+Tipo Dato Lista:
+Objeto Tarjeta: com.novo.bean.Tarjeta@5702b3b1
+Tipo Dato: [2]{1}
+Tipo Dato Lista: 2
+Tipo Dato: .{21}
+Tipo Dato Lista: 10164812090000249749M
+Tipo Dato: [0-9]{4}
+Tipo Dato Lista: 0017
+Tipo Dato: [0-9]{5}
+Tipo Dato Lista: 00005
+Tipo Dato: [A]{1}
+Tipo Dato Lista: A
+Tipo Dato: [0-9]{16}
+Tipo Dato Lista: 4189281061232444
+Tipo Dato: [N|I]{1}
+Tipo Dato Lista: I
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{25}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista: LLANTERA COELHO
+Tipo Dato: .{4}
+Tipo Dato Lista: 1129
+Tipo Dato: .{235}
+Tipo Dato Lista:
+Objeto Tarjeta: com.novo.bean.Tarjeta@69ea3742
+Tipo Dato: [2]{1}
+Tipo Dato Lista: 2
+Tipo Dato: .{21}
+Tipo Dato Lista: 10164812090000249749M
+Tipo Dato: [0-9]{4}
+Tipo Dato Lista: 0017
+Tipo Dato: [0-9]{5}
+Tipo Dato Lista: 00006
+Tipo Dato: [A]{1}
+Tipo Dato Lista: A
+Tipo Dato: [0-9]{16}
+Tipo Dato Lista: 4189281061232451
+Tipo Dato: [N|I]{1}
+Tipo Dato Lista: I
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{25}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista: LLANTERA COELHO
+Tipo Dato: .{4}
+Tipo Dato Lista: 1129
+Tipo Dato: .{235}
+Tipo Dato Lista:
+Objeto Tarjeta: com.novo.bean.Tarjeta@4b952a2d
+Tipo Dato: [2]{1}
+Tipo Dato Lista: 2
+Tipo Dato: .{21}
+Tipo Dato Lista: 10164812090000249749M
+Tipo Dato: [0-9]{4}
+Tipo Dato Lista: 0017
+Tipo Dato: [0-9]{5}
+Tipo Dato Lista: 00007
+Tipo Dato: [A]{1}
+Tipo Dato Lista: A
+Tipo Dato: [0-9]{16}
+Tipo Dato Lista: 4189281061232469
+Tipo Dato: [N|I]{1}
+Tipo Dato Lista: I
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{25}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista: LLANTERA COELHO
+Tipo Dato: .{4}
+Tipo Dato Lista: 1129
+Tipo Dato: .{235}
+Tipo Dato Lista:
+Objeto Tarjeta: com.novo.bean.Tarjeta@3159c4b8
+Tipo Dato: [2]{1}
+Tipo Dato Lista: 2
+Tipo Dato: .{21}
+Tipo Dato Lista: 10164812090000249749M
+Tipo Dato: [0-9]{4}
+Tipo Dato Lista: 0017
+Tipo Dato: [0-9]{5}
+Tipo Dato Lista: 00008
+Tipo Dato: [A]{1}
+Tipo Dato Lista: A
+Tipo Dato: [0-9]{16}
+Tipo Dato Lista: 4189281061232477
+Tipo Dato: [N|I]{1}
+Tipo Dato Lista: I
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{25}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista: LLANTERA COELHO
+Tipo Dato: .{4}
+Tipo Dato Lista: 1129
+Tipo Dato: .{235}
+Tipo Dato Lista:
+Objeto Tarjeta: com.novo.bean.Tarjeta@73846619
+Tipo Dato: [2]{1}
+Tipo Dato Lista: 2
+Tipo Dato: .{21}
+Tipo Dato Lista: 10164812090000249749M
+Tipo Dato: [0-9]{4}
+Tipo Dato Lista: 0017
+Tipo Dato: [0-9]{5}
+Tipo Dato Lista: 00009
+Tipo Dato: [A]{1}
+Tipo Dato Lista: A
+Tipo Dato: [0-9]{16}
+Tipo Dato Lista: 4189281061232485
+Tipo Dato: [N|I]{1}
+Tipo Dato Lista: I
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{25}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista: LLANTERA COELHO
+Tipo Dato: .{4}
+Tipo Dato Lista: 1129
+Tipo Dato: .{235}
+Tipo Dato Lista:
+Objeto Tarjeta: com.novo.bean.Tarjeta@4bec1f0c
+Tipo Dato: [2]{1}
+Tipo Dato Lista: 2
+Tipo Dato: .{21}
+Tipo Dato Lista: 10164812090000249749M
+Tipo Dato: [0-9]{4}
+Tipo Dato Lista: 0017
+Tipo Dato: [0-9]{5}
+Tipo Dato Lista: 00010
+Tipo Dato: [A]{1}
+Tipo Dato Lista: A
+Tipo Dato: [0-9]{16}
+Tipo Dato Lista: 4189281061232493
+Tipo Dato: [N|I]{1}
+Tipo Dato Lista: I
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{25}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista: LLANTERA COELHO
+Tipo Dato: .{4}
+Tipo Dato Lista: 1129
+Tipo Dato: .{235}
+Tipo Dato Lista:
+Objeto Tarjeta: com.novo.bean.Tarjeta@29ca901e
+Tipo Dato: [2]{1}
+Tipo Dato Lista: 2
+Tipo Dato: .{21}
+Tipo Dato Lista: 10164812090000249749M
+Tipo Dato: [0-9]{4}
+Tipo Dato Lista: 0017
+Tipo Dato: [0-9]{5}
+Tipo Dato Lista: 00011
+Tipo Dato: [A]{1}
+Tipo Dato Lista: A
+Tipo Dato: [0-9]{16}
+Tipo Dato Lista: 4189281061232501
+Tipo Dato: [N|I]{1}
+Tipo Dato Lista: I
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{25}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista: LLANTERA COELHO
+Tipo Dato: .{4}
+Tipo Dato Lista: 1129
+Tipo Dato: .{235}
+Tipo Dato Lista:
+Objeto Tarjeta: com.novo.bean.Tarjeta@5649fd9b
+Tipo Dato: [2]{1}
+Tipo Dato Lista: 2
+Tipo Dato: .{21}
+Tipo Dato Lista: 10164812090000249749M
+Tipo Dato: [0-9]{4}
+Tipo Dato Lista: 0017
+Tipo Dato: [0-9]{5}
+Tipo Dato Lista: 00012
+Tipo Dato: [A]{1}
+Tipo Dato Lista: A
+Tipo Dato: [0-9]{16}
+Tipo Dato Lista: 4189281061232519
+Tipo Dato: [N|I]{1}
+Tipo Dato Lista: I
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{25}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista: LLANTERA COELHO
+Tipo Dato: .{4}
+Tipo Dato Lista: 1129
+Tipo Dato: .{235}
+Tipo Dato Lista:
+Objeto Tarjeta: com.novo.bean.Tarjeta@6adede5
+Tipo Dato: [2]{1}
+Tipo Dato Lista: 2
+Tipo Dato: .{21}
+Tipo Dato Lista: 10164812090000249749M
+Tipo Dato: [0-9]{4}
+Tipo Dato Lista: 0017
+Tipo Dato: [0-9]{5}
+Tipo Dato Lista: 00013
+Tipo Dato: [A]{1}
+Tipo Dato Lista: A
+Tipo Dato: [0-9]{16}
+Tipo Dato Lista: 4189281061232527
+Tipo Dato: [N|I]{1}
+Tipo Dato Lista: I
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{25}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista: LLANTERA COELHO
+Tipo Dato: .{4}
+Tipo Dato Lista: 1129
+Tipo Dato: .{235}
+Tipo Dato Lista:
+Objeto Tarjeta: com.novo.bean.Tarjeta@2d928643
+Tipo Dato: [2]{1}
+Tipo Dato Lista: 2
+Tipo Dato: .{21}
+Tipo Dato Lista: 10164812090000249749M
+Tipo Dato: [0-9]{4}
+Tipo Dato Lista: 0017
+Tipo Dato: [0-9]{5}
+Tipo Dato Lista: 00014
+Tipo Dato: [A]{1}
+Tipo Dato Lista: A
+Tipo Dato: [0-9]{16}
+Tipo Dato Lista: 4189281061232535
+Tipo Dato: [N|I]{1}
+Tipo Dato Lista: I
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{25}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista: LLANTERA COELHO
+Tipo Dato: .{4}
+Tipo Dato Lista: 1129
+Tipo Dato: .{235}
+Tipo Dato Lista:
+Objeto Tarjeta: com.novo.bean.Tarjeta@5025a98f
+Tipo Dato: [2]{1}
+Tipo Dato Lista: 2
+Tipo Dato: .{21}
+Tipo Dato Lista: 10164812090000249749M
+Tipo Dato: [0-9]{4}
+Tipo Dato Lista: 0017
+Tipo Dato: [0-9]{5}
+Tipo Dato Lista: 00015
+Tipo Dato: [A]{1}
+Tipo Dato Lista: A
+Tipo Dato: [0-9]{16}
+Tipo Dato Lista: 4189281061232543
+Tipo Dato: [N|I]{1}
+Tipo Dato Lista: I
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{25}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista: LLANTERA COELHO
+Tipo Dato: .{4}
+Tipo Dato Lista: 1129
+Tipo Dato: .{235}
+Tipo Dato Lista:
+Objeto Tarjeta: com.novo.bean.Tarjeta@49993335
+Tipo Dato: [2]{1}
+Tipo Dato Lista: 2
+Tipo Dato: .{21}
+Tipo Dato Lista: 10164812090000249749M
+Tipo Dato: [0-9]{4}
+Tipo Dato Lista: 0017
+Tipo Dato: [0-9]{5}
+Tipo Dato Lista: 00016
+Tipo Dato: [A]{1}
+Tipo Dato Lista: A
+Tipo Dato: [0-9]{16}
+Tipo Dato Lista: 4189281061232550
+Tipo Dato: [N|I]{1}
+Tipo Dato Lista: I
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{25}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista: LLANTERA COELHO
+Tipo Dato: .{4}
+Tipo Dato Lista: 1129
+Tipo Dato: .{235}
+Tipo Dato Lista:
+Objeto Tarjeta: com.novo.bean.Tarjeta@20322d26
+Tipo Dato: [2]{1}
+Tipo Dato Lista: 2
+Tipo Dato: .{21}
+Tipo Dato Lista: 10164812090000249749M
+Tipo Dato: [0-9]{4}
+Tipo Dato Lista: 0017
+Tipo Dato: [0-9]{5}
+Tipo Dato Lista: 00017
+Tipo Dato: [A]{1}
+Tipo Dato Lista: A
+Tipo Dato: [0-9]{16}
+Tipo Dato Lista: 4189281061232568
+Tipo Dato: [N|I]{1}
+Tipo Dato Lista: I
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{25}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista: LLANTERA COELHO
+Tipo Dato: .{4}
+Tipo Dato Lista: 1129
+Tipo Dato: .{235}
+Tipo Dato Lista:
+Objeto Tarjeta: com.novo.bean.Tarjeta@192b07fd
+Tipo Dato: [2]{1}
+Tipo Dato Lista: 2
+Tipo Dato: .{21}
+Tipo Dato Lista: 10164812090000249749M
+Tipo Dato: [0-9]{4}
+Tipo Dato Lista: 0017
+Tipo Dato: [0-9]{5}
+Tipo Dato Lista: 00018
+Tipo Dato: [A]{1}
+Tipo Dato Lista: A
+Tipo Dato: [0-9]{16}
+Tipo Dato Lista: 4189281061232576
+Tipo Dato: [N|I]{1}
+Tipo Dato Lista: I
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{25}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista: LLANTERA COELHO
+Tipo Dato: .{4}
+Tipo Dato Lista: 1129
+Tipo Dato: .{235}
+Tipo Dato Lista:
+Objeto Tarjeta: com.novo.bean.Tarjeta@64bfbc86
+Tipo Dato: [2]{1}
+Tipo Dato Lista: 2
+Tipo Dato: .{21}
+Tipo Dato Lista: 10164812090000249749M
+Tipo Dato: [0-9]{4}
+Tipo Dato Lista: 0017
+Tipo Dato: [0-9]{5}
+Tipo Dato Lista: 00019
+Tipo Dato: [A]{1}
+Tipo Dato Lista: A
+Tipo Dato: [0-9]{16}
+Tipo Dato Lista: 4189281061232584
+Tipo Dato: [N|I]{1}
+Tipo Dato Lista: I
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{25}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista: LLANTERA COELHO
+Tipo Dato: .{4}
+Tipo Dato Lista: 1129
+Tipo Dato: .{235}
+Tipo Dato Lista:
+Objeto Tarjeta: com.novo.bean.Tarjeta@64bf3bbf
+Tipo Dato: [2]{1}
+Tipo Dato Lista: 2
+Tipo Dato: .{21}
+Tipo Dato Lista: 10164812090000249749M
+Tipo Dato: [0-9]{4}
+Tipo Dato Lista: 0017
+Tipo Dato: [0-9]{5}
+Tipo Dato Lista: 00020
+Tipo Dato: [A]{1}
+Tipo Dato Lista: A
+Tipo Dato: [0-9]{16}
+Tipo Dato Lista: 4189281061232592
+Tipo Dato: [N|I]{1}
+Tipo Dato Lista: I
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{25}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{20}
+Tipo Dato Lista:
+Tipo Dato: ^[A-Z\u00f1\u00d1\s]{19}
+Tipo Dato Lista: LLANTERA COELHO
+Tipo Dato: .{4}
+Tipo Dato Lista: 1129
+Tipo Dato: .{235}
+Tipo Dato Lista:
+Objeto Tarjeta: com.novo.bean.Tarjeta@55d56113
+2025-12-01 15:02:20,044 [      ] [DEBUG] com.novo.database.dbinterface                     : connected to ->[jdbc:oracle:thin:@//172.24.6.105:1398/UAT]
+2025-12-01 15:02:20,045 [      ] [DEBUG] com.novo.database.dbinterface                     : connected to ->[jdbc:oracle:thin:@//172.24.6.105:1398/UAT]
+2025-12-01 15:02:20,050 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : CANTIDAD DE REGISTRO: 15
+2025-12-01 15:02:20,050 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : CANTIDAD DE STOCK: 16
+2025-12-01 15:02:20,051 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : CHECK 1=true
+2025-12-01 15:02:20,051 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : CHECK 2=true
+2025-12-01 15:02:20,052 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : CHECK 3=true
+2025-12-01 15:02:20,282 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente SQL_CONSULTA_EMPRESA para la cuenta 1016481209
+2025-12-01 15:02:20,286 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : listaEmp.get(i).getNvpCtaAdmin() :1016481209
+2025-12-01 15:02:20,287 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : listaEmp.get(i).getNvpIndsrvna(): N
+2025-12-01 15:02:20,287 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : CANTIDAD DE REGISTRO: 20
+2025-12-01 15:02:20,287 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : CANTIDAD DE STOCK: 17
+2025-12-01 15:02:20,287 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : CHECK 1=true
+2025-12-01 15:02:20,287 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : CHECK 2=true
+2025-12-01 15:02:20,287 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : CHECK 3=true
+2025-12-01 15:02:20,345 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente SQL_CONSULTA_EMPRESA para la cuenta 1016481209
+2025-12-01 15:02:20,345 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : listaEmp.get(i).getNvpCtaAdmin() :1016481209
+2025-12-01 15:02:20,346 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : listaEmp.get(i).getNvpIndsrvna(): N
+2025-12-01 15:02:20,497 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00001
+2025-12-01 15:02:20,640 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00002
+2025-12-01 15:02:20,759 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00003
+2025-12-01 15:02:20,881 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00004
+2025-12-01 15:02:20,994 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00005
+2025-12-01 15:02:21,103 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00006
+2025-12-01 15:02:21,222 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00007
+2025-12-01 15:02:21,330 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00008
+2025-12-01 15:02:21,447 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00009
+2025-12-01 15:02:21,566 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00010
+2025-12-01 15:02:21,676 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00011
+2025-12-01 15:02:21,795 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00012
+2025-12-01 15:02:21,917 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00013
+2025-12-01 15:02:22,036 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00014
+2025-12-01 15:02:22,161 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00015
+2025-12-01 15:02:22,308 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_LOTE_INNO_M 10164812090000249749M 0017
+2025-12-01 15:02:22,420 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_LOTE_INNO_M 10164812090000249749M 0017
+2025-12-01 15:02:22,545 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_LOTE_INNO_M 10164812090000249749M 0017
+2025-12-01 15:02:22,655 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_LOTE_INNO_M 10164812090000249749M 0017
+2025-12-01 15:02:22,780 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_LOTE_INNO_M 10164812090000249749M 0017
+2025-12-01 15:02:22,898 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_LOTE_INNO_M 10164812090000249749M 0017
+2025-12-01 15:02:23,003 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_LOTE_INNO_M 10164812090000249749M 0017
+2025-12-01 15:02:23,114 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_LOTE_INNO_M 10164812090000249749M 0017
+2025-12-01 15:02:23,233 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_LOTE_INNO_M 10164812090000249749M 0017
+2025-12-01 15:02:23,351 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_LOTE_INNO_M 10164812090000249749M 0017
+2025-12-01 15:02:23,470 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_LOTE_INNO_M 10164812090000249749M 0017
+2025-12-01 15:02:23,590 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_LOTE_INNO_M 10164812090000249749M 0017
+2025-12-01 15:02:23,738 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_LOTE_INNO_M 10164812090000249749M 0017
+2025-12-01 15:02:23,860 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_LOTE_INNO_M 10164812090000249749M 0017
+2025-12-01 15:02:23,976 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_LOTE_INNO_M 10164812090000249749M 0017
+2025-12-01 15:02:24,087 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_LOTE_INNO_M 10164812090000249749M 0017
+2025-12-01 15:02:24,203 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_LOTE_INNO_M 10164812090000249749M 0017
+2025-12-01 15:02:24,319 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_LOTE_INNO_M 10164812090000249749M 0017
+2025-12-01 15:02:24,434 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_LOTE_INNO_M 10164812090000249749M 0017
+2025-12-01 15:02:24,563 [      ] [INFO ] com.novo.processor.ValidadorProcessor             : Se obtuvo correctamente CONSULTA_LOTE_INNO_M 10164812090000249749M 0017
+2025-12-01 15:02:24,569 [      ] [INFO ] java.lang.Process                                 : listaEmpresa.getNvpCuenta() 1016183316
+2025-12-01 15:02:24,569 [      ] [INFO ] java.lang.Process                                 : listaEmpresa.getNvpCtaAdmin() 1016481209
+2025-12-01 15:02:24,570 [      ] [INFO ] java.lang.Process                                 : listaEmpresa.getNvpNumStockG() 0016
+2025-12-01 15:02:24,570 [      ] [INFO ] java.lang.Process                                 : listaEmpresa.getRespuesta().getNvpResultado() A
+2025-12-01 15:02:24,570 [      ] [INFO ] java.lang.Process                                 : listaEmpresa.getNvpCuenta() 1016183316
+2025-12-01 15:02:24,570 [      ] [INFO ] java.lang.Process                                 : listaEmpresa.getNvpCtaAdmin() 1016481209
+2025-12-01 15:02:24,570 [      ] [INFO ] java.lang.Process                                 : listaEmpresa.getNvpNumStockG() 0017
+2025-12-01 15:02:24,570 [      ] [INFO ] java.lang.Process                                 : listaEmpresa.getRespuesta().getNvpResultado() A
+2025-12-01 15:02:24,629 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente SQL_CONSULTA_EMPRESA 1016481209
+2025-12-01 15:02:24,697 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente SQL_CONSULTA_SUCURSAL 1016481209
+2025-12-01 15:02:24,697 [      ] [INFO ] java.lang.Process                                 : *****Inicia Sentencias SQL para Lote y Maestros*****
+2025-12-01 15:02:24,759 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_NOVO_LOTE_EMI_M para el id de servicio 10164812090000249749M y secuencia 0016
+2025-12-01 15:02:24,830 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00001
+2025-12-01 15:02:24,965 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_NOMI para la cuenta empresa 1016481209 y cuenta personal 4189281061232253
+2025-12-01 15:02:25,073 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_NOMI para la cuenta empresa 1016481209 y tarjeta 4189281061232253
+2025-12-01 15:02:25,149 [      ] [INFO ] java.lang.Process                                 : Se actualizo Novo Lote Emi para la tarjeta 4189281061232253
+2025-12-01 15:02:25,211 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5706
+2025-12-01 15:02:25,268 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00002
+2025-12-01 15:02:25,324 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_NOMI para la cuenta empresa 1016481209 y cuenta personal 4189281061232261
+2025-12-01 15:02:25,378 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_NOMI para la cuenta empresa 1016481209 y tarjeta 4189281061232261
+2025-12-01 15:02:25,436 [      ] [INFO ] java.lang.Process                                 : Se actualizo Novo Lote Emi para la tarjeta 4189281061232261
+2025-12-01 15:02:25,500 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5706
+2025-12-01 15:02:25,560 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00003
+2025-12-01 15:02:25,632 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_NOMI para la cuenta empresa 1016481209 y cuenta personal 4189281061232279
+2025-12-01 15:02:25,689 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_NOMI para la cuenta empresa 1016481209 y tarjeta 4189281061232279
+2025-12-01 15:02:25,746 [      ] [INFO ] java.lang.Process                                 : Se actualizo Novo Lote Emi para la tarjeta 4189281061232279
+2025-12-01 15:02:25,805 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5706
+2025-12-01 15:02:25,865 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00004
+2025-12-01 15:02:25,924 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_NOMI para la cuenta empresa 1016481209 y cuenta personal 4189281061232287
+2025-12-01 15:02:25,982 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_NOMI para la cuenta empresa 1016481209 y tarjeta 4189281061232287
+2025-12-01 15:02:26,054 [      ] [INFO ] java.lang.Process                                 : Se actualizo Novo Lote Emi para la tarjeta 4189281061232287
+2025-12-01 15:02:26,128 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5706
+2025-12-01 15:02:26,194 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00005
+2025-12-01 15:02:26,255 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_NOMI para la cuenta empresa 1016481209 y cuenta personal 4189281061232295
+2025-12-01 15:02:26,323 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_NOMI para la cuenta empresa 1016481209 y tarjeta 4189281061232295
+2025-12-01 15:02:26,387 [      ] [INFO ] java.lang.Process                                 : Se actualizo Novo Lote Emi para la tarjeta 4189281061232295
+2025-12-01 15:02:26,444 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5706
+2025-12-01 15:02:26,500 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00006
+2025-12-01 15:02:26,560 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_NOMI para la cuenta empresa 1016481209 y cuenta personal 4189281061232303
+2025-12-01 15:02:26,618 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_NOMI para la cuenta empresa 1016481209 y tarjeta 4189281061232303
+2025-12-01 15:02:26,679 [      ] [INFO ] java.lang.Process                                 : Se actualizo Novo Lote Emi para la tarjeta 4189281061232303
+2025-12-01 15:02:26,738 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5706
+2025-12-01 15:02:26,800 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00007
+2025-12-01 15:02:26,862 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_NOMI para la cuenta empresa 1016481209 y cuenta personal 4189281061232311
+2025-12-01 15:02:26,918 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_NOMI para la cuenta empresa 1016481209 y tarjeta 4189281061232311
+2025-12-01 15:02:26,975 [      ] [INFO ] java.lang.Process                                 : Se actualizo Novo Lote Emi para la tarjeta 4189281061232311
+2025-12-01 15:02:27,034 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5706
+2025-12-01 15:02:27,105 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00008
+2025-12-01 15:02:27,160 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_NOMI para la cuenta empresa 1016481209 y cuenta personal 4189281061232329
+2025-12-01 15:02:27,217 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_NOMI para la cuenta empresa 1016481209 y tarjeta 4189281061232329
+2025-12-01 15:02:27,288 [      ] [INFO ] java.lang.Process                                 : Se actualizo Novo Lote Emi para la tarjeta 4189281061232329
+2025-12-01 15:02:27,345 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5706
+2025-12-01 15:02:27,404 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00009
+2025-12-01 15:02:27,461 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_NOMI para la cuenta empresa 1016481209 y cuenta personal 4189281061232337
+2025-12-01 15:02:27,519 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_NOMI para la cuenta empresa 1016481209 y tarjeta 4189281061232337
+2025-12-01 15:02:27,577 [      ] [INFO ] java.lang.Process                                 : Se actualizo Novo Lote Emi para la tarjeta 4189281061232337
+2025-12-01 15:02:27,636 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5706
+2025-12-01 15:02:27,699 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00010
+2025-12-01 15:02:27,769 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_NOMI para la cuenta empresa 1016481209 y cuenta personal 4189281061232345
+2025-12-01 15:02:27,839 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_NOMI para la cuenta empresa 1016481209 y tarjeta 4189281061232345
+2025-12-01 15:02:27,891 [      ] [INFO ] java.lang.Process                                 : Se actualizo Novo Lote Emi para la tarjeta 4189281061232345
+2025-12-01 15:02:27,940 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5706
+2025-12-01 15:02:28,001 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00011
+2025-12-01 15:02:28,061 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_NOMI para la cuenta empresa 1016481209 y cuenta personal 4189281061232352
+2025-12-01 15:02:28,118 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_NOMI para la cuenta empresa 1016481209 y tarjeta 4189281061232352
+2025-12-01 15:02:28,175 [      ] [INFO ] java.lang.Process                                 : Se actualizo Novo Lote Emi para la tarjeta 4189281061232352
+2025-12-01 15:02:28,228 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5706
+2025-12-01 15:02:28,280 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00012
+2025-12-01 15:02:28,335 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_NOMI para la cuenta empresa 1016481209 y cuenta personal 4189281061232360
+2025-12-01 15:02:28,396 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_NOMI para la cuenta empresa 1016481209 y tarjeta 4189281061232360
+2025-12-01 15:02:28,451 [      ] [INFO ] java.lang.Process                                 : Se actualizo Novo Lote Emi para la tarjeta 4189281061232360
+2025-12-01 15:02:28,508 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5706
+2025-12-01 15:02:28,563 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00013
+2025-12-01 15:02:28,618 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_NOMI para la cuenta empresa 1016481209 y cuenta personal 4189281061232378
+2025-12-01 15:02:28,681 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_NOMI para la cuenta empresa 1016481209 y tarjeta 4189281061232378
+2025-12-01 15:02:28,739 [      ] [INFO ] java.lang.Process                                 : Se actualizo Novo Lote Emi para la tarjeta 4189281061232378
+2025-12-01 15:02:28,797 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5706
+2025-12-01 15:02:28,856 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00014
+2025-12-01 15:02:28,910 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_NOMI para la cuenta empresa 1016481209 y cuenta personal 4189281061232386
+2025-12-01 15:02:28,966 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_NOMI para la cuenta empresa 1016481209 y tarjeta 4189281061232386
+2025-12-01 15:02:29,021 [      ] [INFO ] java.lang.Process                                 : Se actualizo Novo Lote Emi para la tarjeta 4189281061232386
+2025-12-01 15:02:29,076 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5706
+2025-12-01 15:02:29,132 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00015
+2025-12-01 15:02:29,185 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_NOMI para la cuenta empresa 1016481209 y cuenta personal 4189281061232394
+2025-12-01 15:02:29,240 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_NOMI para la cuenta empresa 1016481209 y tarjeta 4189281061232394
+2025-12-01 15:02:29,296 [      ] [INFO ] java.lang.Process                                 : Se actualizo Novo Lote Emi para la tarjeta 4189281061232394
+2025-12-01 15:02:29,355 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5706
+2025-12-01 15:02:29,409 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente SQL_CONSULTA_EMPRESA 1016481209
+2025-12-01 15:02:29,466 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente SQL_CONSULTA_SUCURSAL 1016481209
+2025-12-01 15:02:29,466 [      ] [INFO ] java.lang.Process                                 : *****Inicia Sentencias SQL para Lote y Maestros*****
+2025-12-01 15:02:29,517 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_LOTE_INNO_M para el id de servicio 10164812090000249749M y secuencia 0017
+2025-12-01 15:02:29,618 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_REGISTRO_EMISION_INNO para la cuenta empresa 1016481209 y lote 25112700
+2025-12-01 15:02:29,676 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5707
+2025-12-01 15:02:29,742 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_INNO para la cuenta empresa 1016481209 y cuenta personal 4189281061232402
+2025-12-01 15:02:29,806 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_INNO para la cuenta empresas 1016481209 y tarjeta 4189281061232402
+2025-12-01 15:02:29,863 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_REGISTRO_EMISION_INNO para la cuenta empresa 1016481209 y lote 25112700
+2025-12-01 15:02:29,922 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5707
+2025-12-01 15:02:29,986 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_INNO para la cuenta empresa 1016481209 y cuenta personal 4189281061232410
+2025-12-01 15:02:30,043 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_INNO para la cuenta empresas 1016481209 y tarjeta 4189281061232410
+2025-12-01 15:02:30,104 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_REGISTRO_EMISION_INNO para la cuenta empresa 1016481209 y lote 25112700
+2025-12-01 15:02:30,157 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5707
+2025-12-01 15:02:30,213 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_INNO para la cuenta empresa 1016481209 y cuenta personal 4189281061232428
+2025-12-01 15:02:30,266 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_INNO para la cuenta empresas 1016481209 y tarjeta 4189281061232428
+2025-12-01 15:02:30,320 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_REGISTRO_EMISION_INNO para la cuenta empresa 1016481209 y lote 25112700
+2025-12-01 15:02:30,375 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5707
+2025-12-01 15:02:30,458 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_INNO para la cuenta empresa 1016481209 y cuenta personal 4189281061232436
+2025-12-01 15:02:30,513 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_INNO para la cuenta empresas 1016481209 y tarjeta 4189281061232436
+2025-12-01 15:02:30,569 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_REGISTRO_EMISION_INNO para la cuenta empresa 1016481209 y lote 25112700
+2025-12-01 15:02:30,621 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5707
+2025-12-01 15:02:30,674 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_INNO para la cuenta empresa 1016481209 y cuenta personal 4189281061232444
+2025-12-01 15:02:30,727 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_INNO para la cuenta empresas 1016481209 y tarjeta 4189281061232444
+2025-12-01 15:02:30,778 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_REGISTRO_EMISION_INNO para la cuenta empresa 1016481209 y lote 25112700
+2025-12-01 15:02:30,832 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5707
+2025-12-01 15:02:30,895 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_INNO para la cuenta empresa 1016481209 y cuenta personal 4189281061232451
+2025-12-01 15:02:30,949 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_INNO para la cuenta empresas 1016481209 y tarjeta 4189281061232451
+2025-12-01 15:02:31,018 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_REGISTRO_EMISION_INNO para la cuenta empresa 1016481209 y lote 25112700
+2025-12-01 15:02:31,074 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5707
+2025-12-01 15:02:31,144 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_INNO para la cuenta empresa 1016481209 y cuenta personal 4189281061232469
+2025-12-01 15:02:31,198 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_INNO para la cuenta empresas 1016481209 y tarjeta 4189281061232469
+2025-12-01 15:02:31,249 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_REGISTRO_EMISION_INNO para la cuenta empresa 1016481209 y lote 25112700
+2025-12-01 15:02:31,309 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5707
+2025-12-01 15:02:31,363 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_INNO para la cuenta empresa 1016481209 y cuenta personal 4189281061232477
+2025-12-01 15:02:31,434 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_INNO para la cuenta empresas 1016481209 y tarjeta 4189281061232477
+2025-12-01 15:02:31,486 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_REGISTRO_EMISION_INNO para la cuenta empresa 1016481209 y lote 25112700
+2025-12-01 15:02:31,548 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5707
+2025-12-01 15:02:31,610 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_INNO para la cuenta empresa 1016481209 y cuenta personal 4189281061232485
+2025-12-01 15:02:31,674 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_INNO para la cuenta empresas 1016481209 y tarjeta 4189281061232485
+2025-12-01 15:02:31,727 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_REGISTRO_EMISION_INNO para la cuenta empresa 1016481209 y lote 25112700
+2025-12-01 15:02:31,778 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5707
+2025-12-01 15:02:31,828 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_INNO para la cuenta empresa 1016481209 y cuenta personal 4189281061232493
+2025-12-01 15:02:31,888 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_INNO para la cuenta empresas 1016481209 y tarjeta 4189281061232493
+2025-12-01 15:02:31,954 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_REGISTRO_EMISION_INNO para la cuenta empresa 1016481209 y lote 25112700
+2025-12-01 15:02:32,018 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5707
+2025-12-01 15:02:32,074 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_INNO para la cuenta empresa 1016481209 y cuenta personal 4189281061232501
+2025-12-01 15:02:32,128 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_INNO para la cuenta empresas 1016481209 y tarjeta 4189281061232501
+2025-12-01 15:02:32,180 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_REGISTRO_EMISION_INNO para la cuenta empresa 1016481209 y lote 25112700
+2025-12-01 15:02:32,238 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5707
+2025-12-01 15:02:32,289 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_INNO para la cuenta empresa 1016481209 y cuenta personal 4189281061232519
+2025-12-01 15:02:32,351 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_INNO para la cuenta empresas 1016481209 y tarjeta 4189281061232519
+2025-12-01 15:02:32,404 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_REGISTRO_EMISION_INNO para la cuenta empresa 1016481209 y lote 25112700
+2025-12-01 15:02:32,479 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5707
+2025-12-01 15:02:32,547 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_INNO para la cuenta empresa 1016481209 y cuenta personal 4189281061232527
+2025-12-01 15:02:32,599 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_INNO para la cuenta empresas 1016481209 y tarjeta 4189281061232527
+2025-12-01 15:02:32,658 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_REGISTRO_EMISION_INNO para la cuenta empresa 1016481209 y lote 25112700
+2025-12-01 15:02:32,731 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5707
+2025-12-01 15:02:32,791 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_INNO para la cuenta empresa 1016481209 y cuenta personal 4189281061232535
+2025-12-01 15:02:32,855 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_INNO para la cuenta empresas 1016481209 y tarjeta 4189281061232535
+2025-12-01 15:02:32,908 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_REGISTRO_EMISION_INNO para la cuenta empresa 1016481209 y lote 25112700
+2025-12-01 15:02:32,969 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5707
+2025-12-01 15:02:33,024 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_INNO para la cuenta empresa 1016481209 y cuenta personal 4189281061232543
+2025-12-01 15:02:33,087 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_INNO para la cuenta empresas 1016481209 y tarjeta 4189281061232543
+2025-12-01 15:02:33,138 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_REGISTRO_EMISION_INNO para la cuenta empresa 1016481209 y lote 25112700
+2025-12-01 15:02:33,200 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5707
+2025-12-01 15:02:33,259 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_INNO para la cuenta empresa 1016481209 y cuenta personal 4189281061232550
+2025-12-01 15:02:33,315 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_INNO para la cuenta empresas 1016481209 y tarjeta 4189281061232550
+2025-12-01 15:02:33,371 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_REGISTRO_EMISION_INNO para la cuenta empresa 1016481209 y lote 25112700
+2025-12-01 15:02:33,421 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5707
+2025-12-01 15:02:33,471 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_INNO para la cuenta empresa 1016481209 y cuenta personal 4189281061232568
+2025-12-01 15:02:33,523 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_INNO para la cuenta empresas 1016481209 y tarjeta 4189281061232568
+2025-12-01 15:02:33,580 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_REGISTRO_EMISION_INNO para la cuenta empresa 1016481209 y lote 25112700
+2025-12-01 15:02:33,637 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5707
+2025-12-01 15:02:33,694 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_INNO para la cuenta empresa 1016481209 y cuenta personal 4189281061232576
+2025-12-01 15:02:33,753 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_INNO para la cuenta empresas 1016481209 y tarjeta 4189281061232576
+2025-12-01 15:02:33,805 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_REGISTRO_EMISION_INNO para la cuenta empresa 1016481209 y lote 25112700
+2025-12-01 15:02:33,856 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5707
+2025-12-01 15:02:33,922 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_INNO para la cuenta empresa 1016481209 y cuenta personal 4189281061232584
+2025-12-01 15:02:33,980 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_INNO para la cuenta empresas 1016481209 y tarjeta 4189281061232584
+2025-12-01 15:02:34,031 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_REGISTRO_EMISION_INNO para la cuenta empresa 1016481209 y lote 25112700
+2025-12-01 15:02:34,081 [      ] [INFO ] java.lang.Process                                 : Se update correctamente SQL_UPDATE_TEB_LOTE_INNO para el lote 5707
+2025-12-01 15:02:34,136 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_CONSOLIDADO_INNO para la cuenta empresa 1016481209 y cuenta personal 4189281061232592
+2025-12-01 15:02:34,195 [      ] [INFO ] java.lang.Process                                 : Se registro correctamente SQL_MAESTRO_PLASTICO_INNO para la cuenta empresas 1016481209 y tarjeta 4189281061232592
+2025-12-01 15:02:34,195 [      ] [INFO ] java.lang.Process                                 : ****Inicia la creacion los archivos de SGC **********
+2025-12-01 15:02:34,256 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00001
+2025-12-01 15:02:34,415 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00002
+2025-12-01 15:02:34,473 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00003
+2025-12-01 15:02:34,535 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00004
+2025-12-01 15:02:34,594 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00005
+2025-12-01 15:02:34,654 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00006
+2025-12-01 15:02:34,717 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00007
+2025-12-01 15:02:34,770 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00008
+2025-12-01 15:02:34,824 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00009
+2025-12-01 15:02:34,877 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00010
+2025-12-01 15:02:34,929 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00011
+2025-12-01 15:02:34,983 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00012
+2025-12-01 15:02:35,039 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00013
+2025-12-01 15:02:35,096 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00014
+2025-12-01 15:02:35,160 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00015
+2025-12-01 15:02:35,220 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00001
+2025-12-01 15:02:35,395 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00002
+2025-12-01 15:02:35,458 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00003
+2025-12-01 15:02:35,521 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00004
+2025-12-01 15:02:35,583 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00005
+2025-12-01 15:02:35,638 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00006
+2025-12-01 15:02:35,692 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00007
+2025-12-01 15:02:35,758 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00008
+2025-12-01 15:02:35,820 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00009
+2025-12-01 15:02:35,872 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00010
+2025-12-01 15:02:35,936 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00011
+2025-12-01 15:02:35,991 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00012
+2025-12-01 15:02:36,046 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00013
+2025-12-01 15:02:36,121 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00014
+2025-12-01 15:02:36,180 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00015
+2025-12-01 15:02:36,255 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00001
+2025-12-01 15:02:36,429 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00002
+2025-12-01 15:02:36,488 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00003
+2025-12-01 15:02:36,542 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00004
+2025-12-01 15:02:36,595 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00005
+2025-12-01 15:02:36,650 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00006
+2025-12-01 15:02:36,710 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00007
+2025-12-01 15:02:36,766 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00008
+2025-12-01 15:02:36,824 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00009
+2025-12-01 15:02:36,885 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00010
+2025-12-01 15:02:36,939 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00011
+2025-12-01 15:02:36,995 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00012
+2025-12-01 15:02:37,051 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00013
+2025-12-01 15:02:37,111 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00014
+2025-12-01 15:02:37,172 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00015
+2025-12-01 15:02:37,246 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00001
+2025-12-01 15:02:37,418 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00002
+2025-12-01 15:02:37,482 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00003
+2025-12-01 15:02:37,542 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00004
+2025-12-01 15:02:37,602 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00005
+2025-12-01 15:02:37,660 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00006
+2025-12-01 15:02:37,725 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00007
+2025-12-01 15:02:37,787 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00008
+2025-12-01 15:02:37,851 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00009
+2025-12-01 15:02:37,920 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00010
+2025-12-01 15:02:37,981 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00011
+2025-12-01 15:02:38,042 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00012
+2025-12-01 15:02:38,103 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00013
+2025-12-01 15:02:38,174 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00014
+2025-12-01 15:02:38,239 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00015
+2025-12-01 15:02:38,295 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00001
+2025-12-01 15:02:38,451 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00002
+2025-12-01 15:02:38,514 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00003
+2025-12-01 15:02:38,575 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00004
+2025-12-01 15:02:38,636 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00005
+2025-12-01 15:02:38,698 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00006
+2025-12-01 15:02:38,760 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00007
+2025-12-01 15:02:38,821 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00008
+2025-12-01 15:02:38,885 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00009
+2025-12-01 15:02:38,948 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00010
+2025-12-01 15:02:39,005 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00011
+2025-12-01 15:02:39,055 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00012
+2025-12-01 15:02:39,111 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00013
+2025-12-01 15:02:39,166 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00014
+2025-12-01 15:02:39,225 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00015
+2025-12-01 15:02:39,283 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00001
+2025-12-01 15:02:39,450 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00002
+2025-12-01 15:02:39,501 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00003
+2025-12-01 15:02:39,556 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00004
+2025-12-01 15:02:39,630 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00005
+2025-12-01 15:02:39,692 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00006
+2025-12-01 15:02:39,751 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00007
+2025-12-01 15:02:39,811 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00008
+2025-12-01 15:02:39,865 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00009
+2025-12-01 15:02:39,924 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00010
+2025-12-01 15:02:39,987 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00011
+2025-12-01 15:02:40,050 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00012
+2025-12-01 15:02:40,105 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00013
+2025-12-01 15:02:40,156 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00014
+2025-12-01 15:02:40,215 [      ] [INFO ] java.lang.Process                                 : Se obtuvo correctamente CONSULTA_DATOS_PERSONA 10164812090000249749M 0016 00015
+2025-12-01 15:02:40,227 [      ] [INFO ] java.lang.Process                                 : ****Finaliza la creacion los archivos de SGC **********
+2025-12-01 15:02:40,247 [      ] [INFO ] com.novo.main.Main                                : Archivo generado OK: C:\ARQUITECTURA-GO-IA-FUTURO\PROJECT\batch-alta-clientes-banorte\NUEVO-CODIGO\novo_alta_clientes_banorte\packsgc\ACCOUNTS.TXT (4970 bytes)
+2025-12-01 15:02:40,248 [      ] [INFO ] com.novo.main.Main                                : Archivo generado OK: C:\ARQUITECTURA-GO-IA-FUTURO\PROJECT\batch-alta-clientes-banorte\NUEVO-CODIGO\novo_alta_clientes_banorte\packsgc\CARDACCOUNTS.TXT (1610 bytes)
+2025-12-01 15:02:40,249 [      ] [INFO ] com.novo.main.Main                                : Archivo generado OK: C:\ARQUITECTURA-GO-IA-FUTURO\PROJECT\batch-alta-clientes-banorte\NUEVO-CODIGO\novo_alta_clientes_banorte\packsgc\CARDS.TXT (4865 bytes)
+2025-12-01 15:02:40,249 [      ] [INFO ] com.novo.main.Main                                : Archivo generado OK: C:\ARQUITECTURA-GO-IA-FUTURO\PROJECT\batch-alta-clientes-banorte\NUEVO-CODIGO\novo_alta_clientes_banorte\packsgc\CUSTOMERACCOUNTS.TXT (1400 bytes)
+2025-12-01 15:02:40,250 [      ] [INFO ] com.novo.main.Main                                : Archivo generado OK: C:\ARQUITECTURA-GO-IA-FUTURO\PROJECT\batch-alta-clientes-banorte\NUEVO-CODIGO\novo_alta_clientes_banorte\packsgc\CUSTOMERS.TXT (3926 bytes)
+2025-12-01 15:02:40,250 [      ] [INFO ] com.novo.main.Main                                : Archivo generado OK: C:\ARQUITECTURA-GO-IA-FUTURO\PROJECT\batch-alta-clientes-banorte\NUEVO-CODIGO\novo_alta_clientes_banorte\packsgc\ACCOUNTBALANCES.TXT (945 bytes)
+2025-12-01 15:02:40,261 [      ] [INFO ] com.novo.main.Main                                : Archivo de respuesta OK: C:\ARQUITECTURA-GO-IA-FUTURO\PROJECT\batch-alta-clientes-banorte\NUEVO-CODIGO\novo_alta_clientes_banorte\arcrespuesta\REPSOLNP.D251201.TXT (15466 bytes)
+2025-12-01 15:02:40,361 [      ] [INFO ] com.novo.main.Main                                : ----------------Notificaciones Internas----------------------
+DEBUG: setDebug: JavaMail version 1.4ea
+DEBUG: getProvider() returning javax.mail.Provider[TRANSPORT,smtp,com.sun.mail.smtp.SMTPTransport,Sun Microsystems, Inc]
+DEBUG SMTP: useEhlo true, useAuth false
+DEBUG SMTP: trying to connect to host "novopayment-com.mail.protection.outlook.com", port 25, isSSL false
+220 CH2PEPF00000148.mail.protection.outlook.com Microsoft ESMTP MAIL Service ready at Mon, 1 Dec 2025 20:02:39 +0000 [08DE2E6259FF95D5]
+DEBUG SMTP: connected to host "novopayment-com.mail.protection.outlook.com", port: 25
+
+EHLO COTETEC346
+250-CH2PEPF00000148.mail.protection.outlook.com Hello [181.59.3.149]
+250-SIZE 157286400
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-STARTTLS
+250-8BITMIME
+250-BINARYMIME
+250-CHUNKING
+250 SMTPUTF8
+DEBUG SMTP: Found extension "SIZE", arg "157286400"
+DEBUG SMTP: Found extension "PIPELINING", arg ""
+DEBUG SMTP: Found extension "DSN", arg ""
+DEBUG SMTP: Found extension "ENHANCEDSTATUSCODES", arg ""
+DEBUG SMTP: Found extension "STARTTLS", arg ""
+DEBUG SMTP: Found extension "8BITMIME", arg ""
+DEBUG SMTP: Found extension "BINARYMIME", arg ""
+DEBUG SMTP: Found extension "CHUNKING", arg ""
+DEBUG SMTP: Found extension "SMTPUTF8", arg ""
+DEBUG: getProvider() returning javax.mail.Provider[TRANSPORT,smtp,com.sun.mail.smtp.SMTPTransport,Sun Microsystems, Inc]
+DEBUG SMTP: useEhlo true, useAuth false
+DEBUG SMTP: trying to connect to host "novopayment-com.mail.protection.outlook.com", port 25, isSSL false
+220 CH2PEPF00000143.mail.protection.outlook.com Microsoft ESMTP MAIL Service ready at Mon, 1 Dec 2025 20:02:40 +0000 [08DE2E764A6A94D1]
+DEBUG SMTP: connected to host "novopayment-com.mail.protection.outlook.com", port: 25
+
+EHLO COTETEC346
+250-CH2PEPF00000143.mail.protection.outlook.com Hello [181.59.3.149]
+250-SIZE 157286400
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-STARTTLS
+250-8BITMIME
+250-BINARYMIME
+250-CHUNKING
+250 SMTPUTF8
+DEBUG SMTP: Found extension "SIZE", arg "157286400"
+DEBUG SMTP: Found extension "PIPELINING", arg ""
+DEBUG SMTP: Found extension "DSN", arg ""
+DEBUG SMTP: Found extension "ENHANCEDSTATUSCODES", arg ""
+DEBUG SMTP: Found extension "STARTTLS", arg ""
+DEBUG SMTP: Found extension "8BITMIME", arg ""
+DEBUG SMTP: Found extension "BINARYMIME", arg ""
+DEBUG SMTP: Found extension "CHUNKING", arg ""
+DEBUG SMTP: Found extension "SMTPUTF8", arg ""
+DEBUG SMTP: use8bit false
+MAIL FROM:<info@novopayment.com>
+250 2.1.0 Sender OK
+RCPT TO:<operacionesit@novopayment.com>
+550 5.7.606 Access denied, banned sending IP [181.59.3.149]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1427) [CH2PEPF00000143.namprd02.prod.outlook.com 2025-12-01T20:02:40.361Z 08DE2E764A6A94D1]
+DEBUG SMTP: Invalid Addresses
+DEBUG SMTP:   operacionesit@novopayment.com
+DEBUG SMTP: Sending failed because of invalid destination addresses
+RSET
+250 2.0.0 Resetting
+javax.mail.SendFailedException: Invalid Addresses;
+  nested exception is:
+	com.sun.mail.smtp.SMTPAddressFailedException: 550 5.7.606 Access denied, banned sending IP [181.59.3.149]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1427) [CH2PEPF00000143.namprd02.prod.outlook.com 2025-12-01T20:02:40.361Z 08DE2E764A6A94D1]
+
+	at com.sun.mail.smtp.SMTPTransport.rcptTo(SMTPTransport.java:1196)
+	at com.sun.mail.smtp.SMTPTransport.sendMessage(SMTPTransport.java:584)
+	at javax.mail.Transport.send0(Transport.java:169)
+	at javax.mail.Transport.send(Transport.java:98)
+	at com.novo.main.SendMail.sendEmailHtml(SendMail.java:92)
+	at com.novo.main.Main.enviarNotificacionInterna(Main.java:312)
+	at com.novo.main.Main.main(Main.java:131)
+Caused by: com.sun.mail.smtp.SMTPAddressFailedException: 550 5.7.606 Access denied, banned sending IP [181.59.3.149]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1427) [CH2PEPF00000143.namprd02.prod.outlook.com 2025-12-01T20:02:40.361Z 08DE2E764A6A94D1]
+
+	at com.sun.mail.smtp.SMTPTransport.rcptTo(SMTPTransport.java:1047)
+	... 6 more
+QUIT
+221 2.0.0 Service closing transmission channel
+2025-12-01 15:02:41,708 [      ] [INFO ] com.novo.main.Main                                : El Proceso Se Ha Culminado Exitosamente!
+2025-12-01 15:02:41,713 [      ] [INFO ] com.novo.database.dbinterface                     : dbend  stmt[oracle.jdbc.driver.OracleStatementWrapper@2ef14fe] conn[oracle.jdbc.driver.T4CConnection@6e20b53a]conectado [false]
+2025-12-01 15:02:41,713 [      ] [INFO ] com.novo.database.dbinterface                     : close db queryResult [Oracle]!
+2025-12-01 15:02:41,713 [      ] [INFO ] com.novo.database.dbinterface                     : close db statement [Oracle]!
+2025-12-01 15:02:41,713 [      ] [INFO ] com.novo.database.dbinterface                     : close db connection [Oracle]!
+javax.mail.SendFailedException: Invalid Addresses;
+  nested exception is:
+	com.sun.mail.smtp.SMTPAddressFailedException: 550 5.7.606 Access denied, banned sending IP [181.59.3.149]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1427) [CH2PEPF00000143.namprd02.prod.outlook.com 2025-12-01T20:02:40.361Z 08DE2E764A6A94D1]
+
+	at com.sun.mail.smtp.SMTPTransport.rcptTo(SMTPTransport.java:1196)
+	at com.sun.mail.smtp.SMTPTransport.sendMessage(SMTPTransport.java:584)
+	at javax.mail.Transport.send0(Transport.java:169)
+	at javax.mail.Transport.send(Transport.java:98)
+	at com.novo.main.SendMail.sendEmailHtml(SendMail.java:92)
+	at com.novo.main.Main.enviarNotificacionInterna(Main.java:312)
+	at com.novo.main.Main.main(Main.java:131)
+Caused by: com.sun.mail.smtp.SMTPAddressFailedException: 550 5.7.606 Access denied, banned sending IP [181.59.3.149]. To request removal from this list please visit https://sender.office.com/ and follow the directions. For more information please go to  http://go.microsoft.com/fwlink/?LinkID=526655 AS(1427) [CH2PEPF00000143.namprd02.prod.outlook.com 2025-12-01T20:02:40.361Z 08DE2E764A6A94D1]
+
+	at com.sun.mail.smtp.SMTPTransport.rcptTo(SMTPTransport.java:1047)
+	... 6 more
+2025-12-01 15:02:41,774 [      ] [INFO ] com.novo.database.dbinterface                     : finalizando dbend coneccion cerrada [true]
+
+BUILD SUCCESSFUL in 26s
+3 actionable tasks: 1 executed, 2 up-to-date
+3:02:41 p. m.: Execution finished ':com.novo.main.Main.main()'.
