@@ -2,6 +2,28 @@ Proceso Batch: Alta de Clientes Banorte
 
 Este proyecto ejecuta el alta de clientes y la generación de archivos SGC a partir de un archivo de entrada. Incluye validaciones de entrada/salida, operaciones en Oracle y notificaciones por correo.
 
+RESUMEN DOMINIO + GUÍA DE MIGRACIÓN A GO (NUEVO)
+- Dominio (qué hace):
+  - Procesa solicitudes de alta/subsecuente/reactivación de empresas, usuarios, cuentas y lotes de tarjetas.
+  - Invoca sentencias SQL orquestadas en una única transacción, genera archivos SGC y un archivo de respuesta, y envía notificaciones.
+- Puntos de control (antes de tocar BD y antes del commit):
+  - Valida formato del archivo (GENERAL/DETAIL/CONTROL), conteos (registros vs. stock) y composición de IdServicio vs. cuentas/empresa/tipo.
+  - Cruza con BD para determinar: existencia/estatus de empresa/usuario, duplicidades de cuentas/tarjetas, reactivaciones y regla de “solo lote”.
+  - Tras ejecutar SQL: valida existencia y tamaño (>0) de archivos SGC y del archivo de respuesta (si falla, rollback).
+- Reglas/condicionales clave que gobiernan SQL:
+  - Alta (motivo = 'A') y no reactivación/solo lote → inserciones iniciales (empresa, cuenta, usuario, lote, maestros, parámetros).
+  - Subsecuente (motivo = 'M') → procesamiento de lotes/emisiones; requiere existencia de cuenta.
+  - Reactivación (empresa/usuario inactivos) → updates de estatus y reasignaciones.
+  - “Solo lote”: empresa activa con primer stock ('0001') en alta 'A'.
+- Plan de migración a Go (resumen rápido):
+  1) Arquitectura por capas: config, db (Oracle con godror), domain, repository (SQL con bind variables), service (reglas), sgc (archivos), mailer, logging.
+  2) Replicar validadores de entrada y de BD (idénticas reglas y mensajes). Evitar concatenaciones SQL (usar parámetros vinculados).
+  3) Orquestación con transacciones: BEGIN → processors (empresa/cuenta/usuario/lote) → archivos (generar+validar) → COMMIT; en error → ROLLBACK + alerta.
+  4) Pruebas: unitarias (validadores/formatos), integración (repos), y end-to-end en entorno controlado (Oracle XE o dobles de prueba).
+  5) Observabilidad: logs estructurados con contexto (cuenta/servicio/lote) y métricas opcionales.
+  6) Idempotencia: validar existencia antes de insertar para evitar duplicados en reruns.
+  7) SMTP: plantillas básicas para externas e internas; mantener imágenes de branding desde config.
+
 1) Configuración
 - config/constant_config.properties: rutas y nombres de archivos (LIST_FILES, FILE_PATH_SGC, FILE_PATH_RESPUESTA, FILE_NAME_OUTPUT, FILE_EXT, etc.).
 - config/constant_process.properties: parámetros de proceso y estructura del archivo de entrada.
